@@ -1,0 +1,1250 @@
+{
+  "author": "Charles Dickens",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "dickens-oliver-twist-ab2ad04",
+  "languagecode": "cs",
+  "modified": "2022-03-12T08:09:34.866Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Oliver Twist",
+  "revision": "ab2ad04",
+  "generatedAt": {
+    "date": "Sat Mar 12 2022 08:24:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647073496764
+  },
+  "documents": [
+    {
+      "title": "Oliver Twist",
+      "file": "oliver_twist_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "oliver_twist_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oliver Twist",
+      "file": "oliver_twist_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "oliver_twist_001.html",
+      "next": "oliver_twist_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oliver Twist",
+      "file": "oliver_twist_003.html",
+      "words": 9,
+      "chars": 65,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "oliver_twist_002.html",
+      "next": "oliver_twist_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oliver Twist",
+      "file": "oliver_twist_004.html",
+      "words": 90,
+      "chars": 592,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "oliver_twist_003.html",
+      "next": "oliver_twist_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předmluva • Oliver Twist",
+      "file": "oliver_twist_005.html",
+      "words": 1153,
+      "chars": 7343,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 4,
+      "prev": "oliver_twist_004.html",
+      "next": "oliver_twist_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PŘÍHODY OLIVERA TWISTA • Oliver Twist",
+      "file": "oliver_twist_006.html",
+      "words": 3,
+      "chars": 22,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 5,
+      "prev": "oliver_twist_005.html",
+      "next": "oliver_twist_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PŘÍHODY OLIVERA TWISTA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osoby • Oliver Twist",
+      "file": "oliver_twist_007.html",
+      "words": 270,
+      "chars": 1650,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 6,
+      "prev": "oliver_twist_006.html",
+      "next": "oliver_twist_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osoby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola prvá • Oliver Twist",
+      "file": "oliver_twist_008.html",
+      "words": 966,
+      "chars": 5993,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 7,
+      "prev": "oliver_twist_007.html",
+      "next": "oliver_twist_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola prvá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola druhá • Oliver Twist",
+      "file": "oliver_twist_009.html",
+      "words": 3530,
+      "chars": 21451,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 8,
+      "prev": "oliver_twist_008.html",
+      "next": "oliver_twist_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola druhá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola třetí • Oliver Twist",
+      "file": "oliver_twist_010.html",
+      "words": 2858,
+      "chars": 17102,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 9,
+      "prev": "oliver_twist_009.html",
+      "next": "oliver_twist_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola třetí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola čtvrtá • Oliver Twist",
+      "file": "oliver_twist_011.html",
+      "words": 2344,
+      "chars": 14155,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 10,
+      "prev": "oliver_twist_010.html",
+      "next": "oliver_twist_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola čtvrtá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola pátá • Oliver Twist",
+      "file": "oliver_twist_012.html",
+      "words": 3622,
+      "chars": 21774,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 11,
+      "prev": "oliver_twist_011.html",
+      "next": "oliver_twist_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola pátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola šestá • Oliver Twist",
+      "file": "oliver_twist_013.html",
+      "words": 1616,
+      "chars": 9975,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 12,
+      "prev": "oliver_twist_012.html",
+      "next": "oliver_twist_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola šestá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola sedmá • Oliver Twist",
+      "file": "oliver_twist_014.html",
+      "words": 2162,
+      "chars": 13068,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 13,
+      "prev": "oliver_twist_013.html",
+      "next": "oliver_twist_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola sedmá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola osmá • Oliver Twist",
+      "file": "oliver_twist_015.html",
+      "words": 2893,
+      "chars": 17009,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 14,
+      "prev": "oliver_twist_014.html",
+      "next": "oliver_twist_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola osmá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola devátá • Oliver Twist",
+      "file": "oliver_twist_016.html",
+      "words": 2102,
+      "chars": 12509,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 15,
+      "prev": "oliver_twist_015.html",
+      "next": "oliver_twist_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola devátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola desátá • Oliver Twist",
+      "file": "oliver_twist_017.html",
+      "words": 1623,
+      "chars": 9538,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 16,
+      "prev": "oliver_twist_016.html",
+      "next": "oliver_twist_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola desátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola jedenáctá • Oliver Twist",
+      "file": "oliver_twist_018.html",
+      "words": 2347,
+      "chars": 14295,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 17,
+      "prev": "oliver_twist_017.html",
+      "next": "oliver_twist_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola jedenáctá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola dvanáctá • Oliver Twist",
+      "file": "oliver_twist_019.html",
+      "words": 3139,
+      "chars": 18889,
+      "ideas": 86,
+      "role": "chapter",
+      "order": 18,
+      "prev": "oliver_twist_018.html",
+      "next": "oliver_twist_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola dvanáctá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola třináctá • Oliver Twist",
+      "file": "oliver_twist_020.html",
+      "words": 2570,
+      "chars": 15709,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 19,
+      "prev": "oliver_twist_019.html",
+      "next": "oliver_twist_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola třináctá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola čtrnáctá • Oliver Twist",
+      "file": "oliver_twist_021.html",
+      "words": 3546,
+      "chars": 20879,
+      "ideas": 100,
+      "role": "chapter",
+      "order": 20,
+      "prev": "oliver_twist_020.html",
+      "next": "oliver_twist_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola čtrnáctá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola patnáctá • Oliver Twist",
+      "file": "oliver_twist_022.html",
+      "words": 2132,
+      "chars": 12786,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 21,
+      "prev": "oliver_twist_021.html",
+      "next": "oliver_twist_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola patnáctá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola šestnáctá • Oliver Twist",
+      "file": "oliver_twist_023.html",
+      "words": 3246,
+      "chars": 19125,
+      "ideas": 96,
+      "role": "chapter",
+      "order": 22,
+      "prev": "oliver_twist_022.html",
+      "next": "oliver_twist_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola šestnáctá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola sedmnáctá • Oliver Twist",
+      "file": "oliver_twist_024.html",
+      "words": 2974,
+      "chars": 18202,
+      "ideas": 102,
+      "role": "chapter",
+      "order": 23,
+      "prev": "oliver_twist_023.html",
+      "next": "oliver_twist_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola sedmnáctá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola osmnáctá • Oliver Twist",
+      "file": "oliver_twist_025.html",
+      "words": 2813,
+      "chars": 16744,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 24,
+      "prev": "oliver_twist_024.html",
+      "next": "oliver_twist_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola osmnáctá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola devatenáctá • Oliver Twist",
+      "file": "oliver_twist_026.html",
+      "words": 3191,
+      "chars": 18487,
+      "ideas": 109,
+      "role": "chapter",
+      "order": 25,
+      "prev": "oliver_twist_025.html",
+      "next": "oliver_twist_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola devatenáctá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola dvacátá • Oliver Twist",
+      "file": "oliver_twist_027.html",
+      "words": 2767,
+      "chars": 16066,
+      "ideas": 80,
+      "role": "chapter",
+      "order": 26,
+      "prev": "oliver_twist_026.html",
+      "next": "oliver_twist_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola dvacátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola dvacátá prvá • Oliver Twist",
+      "file": "oliver_twist_028.html",
+      "words": 1947,
+      "chars": 11842,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 27,
+      "prev": "oliver_twist_027.html",
+      "next": "oliver_twist_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola dvacátá prvá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola dvacátá druhá • Oliver Twist",
+      "file": "oliver_twist_029.html",
+      "words": 2312,
+      "chars": 13572,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 28,
+      "prev": "oliver_twist_028.html",
+      "next": "oliver_twist_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola dvacátá druhá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola dvacátá třetí • Oliver Twist",
+      "file": "oliver_twist_030.html",
+      "words": 2504,
+      "chars": 15455,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 29,
+      "prev": "oliver_twist_029.html",
+      "next": "oliver_twist_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola dvacátá třetí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola dvacátá čtvrtá • Oliver Twist",
+      "file": "oliver_twist_031.html",
+      "words": 1843,
+      "chars": 11145,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 30,
+      "prev": "oliver_twist_030.html",
+      "next": "oliver_twist_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola dvacátá čtvrtá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola dvacátá pátá • Oliver Twist",
+      "file": "oliver_twist_032.html",
+      "words": 2072,
+      "chars": 12123,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 31,
+      "prev": "oliver_twist_031.html",
+      "next": "oliver_twist_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola dvacátá pátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola dvacátá šestá • Oliver Twist",
+      "file": "oliver_twist_033.html",
+      "words": 4184,
+      "chars": 24910,
+      "ideas": 112,
+      "role": "chapter",
+      "order": 32,
+      "prev": "oliver_twist_032.html",
+      "next": "oliver_twist_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola dvacátá šestá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola dvacátá sedmá • Oliver Twist",
+      "file": "oliver_twist_034.html",
+      "words": 2320,
+      "chars": 14336,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 33,
+      "prev": "oliver_twist_033.html",
+      "next": "oliver_twist_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola dvacátá sedmá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola dvacátá osmá • Oliver Twist",
+      "file": "oliver_twist_035.html",
+      "words": 3137,
+      "chars": 18844,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 34,
+      "prev": "oliver_twist_034.html",
+      "next": "oliver_twist_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola dvacátá osmá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola dvacátá devátá • Oliver Twist",
+      "file": "oliver_twist_036.html",
+      "words": 1285,
+      "chars": 7722,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 35,
+      "prev": "oliver_twist_035.html",
+      "next": "oliver_twist_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola dvacátá devátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola třicátá • Oliver Twist",
+      "file": "oliver_twist_037.html",
+      "words": 2186,
+      "chars": 13289,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 36,
+      "prev": "oliver_twist_036.html",
+      "next": "oliver_twist_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola třicátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola třicátá prvá • Oliver Twist",
+      "file": "oliver_twist_038.html",
+      "words": 3709,
+      "chars": 22186,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 37,
+      "prev": "oliver_twist_037.html",
+      "next": "oliver_twist_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola třicátá prvá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola třicátá druhá • Oliver Twist",
+      "file": "oliver_twist_039.html",
+      "words": 2980,
+      "chars": 17887,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 38,
+      "prev": "oliver_twist_038.html",
+      "next": "oliver_twist_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola třicátá druhá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola třicátá třetí • Oliver Twist",
+      "file": "oliver_twist_040.html",
+      "words": 3036,
+      "chars": 17872,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 39,
+      "prev": "oliver_twist_039.html",
+      "next": "oliver_twist_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola třicátá třetí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola třicátá čtvrtá • Oliver Twist",
+      "file": "oliver_twist_041.html",
+      "words": 3446,
+      "chars": 20551,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 40,
+      "prev": "oliver_twist_040.html",
+      "next": "oliver_twist_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola třicátá čtvrtá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola třicátá pátá • Oliver Twist",
+      "file": "oliver_twist_042.html",
+      "words": 2673,
+      "chars": 15572,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 41,
+      "prev": "oliver_twist_041.html",
+      "next": "oliver_twist_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola třicátá pátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola třicátá šestá • Oliver Twist",
+      "file": "oliver_twist_043.html",
+      "words": 919,
+      "chars": 5410,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 42,
+      "prev": "oliver_twist_042.html",
+      "next": "oliver_twist_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola třicátá šestá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola třicátá sedmá  • Oliver Twist",
+      "file": "oliver_twist_044.html",
+      "words": 3333,
+      "chars": 20296,
+      "ideas": 103,
+      "role": "chapter",
+      "order": 43,
+      "prev": "oliver_twist_043.html",
+      "next": "oliver_twist_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola třicátá sedmá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola třicátá osmá • Oliver Twist",
+      "file": "oliver_twist_045.html",
+      "words": 3358,
+      "chars": 19951,
+      "ideas": 111,
+      "role": "chapter",
+      "order": 44,
+      "prev": "oliver_twist_044.html",
+      "next": "oliver_twist_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola třicátá osmá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola třicátá devátá • Oliver Twist",
+      "file": "oliver_twist_046.html",
+      "words": 4925,
+      "chars": 29283,
+      "ideas": 141,
+      "role": "chapter",
+      "order": 45,
+      "prev": "oliver_twist_045.html",
+      "next": "oliver_twist_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola třicátá devátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola čtyřicátá • Oliver Twist",
+      "file": "oliver_twist_047.html",
+      "words": 2475,
+      "chars": 14296,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 46,
+      "prev": "oliver_twist_046.html",
+      "next": "oliver_twist_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola čtyřicátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola čtyřicátá prvá • Oliver Twist",
+      "file": "oliver_twist_048.html",
+      "words": 3308,
+      "chars": 19800,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 47,
+      "prev": "oliver_twist_047.html",
+      "next": "oliver_twist_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola čtyřicátá prvá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola čtyřicátá druhá • Oliver Twist",
+      "file": "oliver_twist_049.html",
+      "words": 3427,
+      "chars": 20437,
+      "ideas": 123,
+      "role": "chapter",
+      "order": 48,
+      "prev": "oliver_twist_048.html",
+      "next": "oliver_twist_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola čtyřicátá druhá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola čtyřicátá třetí • Oliver Twist",
+      "file": "oliver_twist_050.html",
+      "words": 3596,
+      "chars": 21323,
+      "ideas": 107,
+      "role": "chapter",
+      "order": 49,
+      "prev": "oliver_twist_049.html",
+      "next": "oliver_twist_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola čtyřicátá třetí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola čtyřicátá čtvrtá  • Oliver Twist",
+      "file": "oliver_twist_051.html",
+      "words": 2283,
+      "chars": 13201,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 50,
+      "prev": "oliver_twist_050.html",
+      "next": "oliver_twist_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola čtyřicátá čtvrtá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola čtyřicátá pátá • Oliver Twist",
+      "file": "oliver_twist_052.html",
+      "words": 1140,
+      "chars": 6655,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 51,
+      "prev": "oliver_twist_051.html",
+      "next": "oliver_twist_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola čtyřicátá pátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola čtyřicátá šestá • Oliver Twist",
+      "file": "oliver_twist_053.html",
+      "words": 3293,
+      "chars": 19343,
+      "ideas": 94,
+      "role": "chapter",
+      "order": 52,
+      "prev": "oliver_twist_052.html",
+      "next": "oliver_twist_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola čtyřicátá šestá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola čtyřicátá sedmá • Oliver Twist",
+      "file": "oliver_twist_054.html",
+      "words": 2428,
+      "chars": 13625,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 53,
+      "prev": "oliver_twist_053.html",
+      "next": "oliver_twist_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola čtyřicátá sedmá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola čtyřicátá osmá • Oliver Twist",
+      "file": "oliver_twist_055.html",
+      "words": 3263,
+      "chars": 19126,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 54,
+      "prev": "oliver_twist_054.html",
+      "next": "oliver_twist_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola čtyřicátá osmá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola čtyřicátá devátá • Oliver Twist",
+      "file": "oliver_twist_056.html",
+      "words": 3355,
+      "chars": 19832,
+      "ideas": 87,
+      "role": "chapter",
+      "order": 55,
+      "prev": "oliver_twist_055.html",
+      "next": "oliver_twist_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola čtyřicátá devátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola padesátá • Oliver Twist",
+      "file": "oliver_twist_057.html",
+      "words": 3802,
+      "chars": 22300,
+      "ideas": 98,
+      "role": "chapter",
+      "order": 56,
+      "prev": "oliver_twist_056.html",
+      "next": "oliver_twist_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola padesátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola padesátá prvá  • Oliver Twist",
+      "file": "oliver_twist_058.html",
+      "words": 4587,
+      "chars": 26970,
+      "ideas": 106,
+      "role": "chapter",
+      "order": 57,
+      "prev": "oliver_twist_057.html",
+      "next": "oliver_twist_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola padesátá prvá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola padesátá druhá • Oliver Twist",
+      "file": "oliver_twist_059.html",
+      "words": 2948,
+      "chars": 17515,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 58,
+      "prev": "oliver_twist_058.html",
+      "next": "oliver_twist_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola padesátá druhá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola padesátá třetí • Oliver Twist",
+      "file": "oliver_twist_060.html",
+      "words": 1415,
+      "chars": 8682,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 59,
+      "prev": "oliver_twist_059.html",
+      "next": "oliver_twist_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola padesátá třetí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oliver Twist",
+      "file": "oliver_twist_061.html",
+      "words": 50,
+      "chars": 339,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 60,
+      "prev": "oliver_twist_060.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 147512,
+      "chars": 879161,
+      "ideas": 4065
+    },
+    "chapters": {
+      "words": 147505,
+      "chars": 879118,
+      "ideas": 4060
+    }
+  }
+}
