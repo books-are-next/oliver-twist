@@ -1,0 +1,515 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Oliver Twist",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Charles Dickens",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2022-03-12T08:09:34.866Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.2",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/oliver_twist_061.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_oliver_twist.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/oliver_twist_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "PŘÍHODY OLIVERA TWISTA",
+      "children": [
+        {
+          "title": "Osoby",
+          "href": "OEBPS/Text/oliver_twist_007.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Kapitola prvá",
+          "href": "OEBPS/Text/oliver_twist_008.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Kapitola druhá",
+          "href": "OEBPS/Text/oliver_twist_009.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Kapitola třetí",
+          "href": "OEBPS/Text/oliver_twist_010.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Kapitola čtvrtá",
+          "href": "OEBPS/Text/oliver_twist_011.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Kapitola pátá",
+          "href": "OEBPS/Text/oliver_twist_012.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Kapitola šestá",
+          "href": "OEBPS/Text/oliver_twist_013.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Kapitola sedmá",
+          "href": "OEBPS/Text/oliver_twist_014.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Kapitola osmá",
+          "href": "OEBPS/Text/oliver_twist_015.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Kapitola devátá",
+          "href": "OEBPS/Text/oliver_twist_016.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Kapitola desátá",
+          "href": "OEBPS/Text/oliver_twist_017.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Kapitola jedenáctá",
+          "href": "OEBPS/Text/oliver_twist_018.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Kapitola dvanáctá",
+          "href": "OEBPS/Text/oliver_twist_019.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "Kapitola třináctá",
+          "href": "OEBPS/Text/oliver_twist_020.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Kapitola čtrnáctá",
+          "href": "OEBPS/Text/oliver_twist_021.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Kapitola patnáctá",
+          "href": "OEBPS/Text/oliver_twist_022.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Kapitola šestnáctá",
+          "href": "OEBPS/Text/oliver_twist_023.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Kapitola sedmnáctá",
+          "href": "OEBPS/Text/oliver_twist_024.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Kapitola osmnáctá",
+          "href": "OEBPS/Text/oliver_twist_025.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Kapitola devatenáctá",
+          "href": "OEBPS/Text/oliver_twist_026.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Kapitola dvacátá",
+          "href": "OEBPS/Text/oliver_twist_027.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Kapitola dvacátá prvá",
+          "href": "OEBPS/Text/oliver_twist_028.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "Kapitola dvacátá druhá",
+          "href": "OEBPS/Text/oliver_twist_029.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Kapitola dvacátá třetí",
+          "href": "OEBPS/Text/oliver_twist_030.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Kapitola dvacátá čtvrtá",
+          "href": "OEBPS/Text/oliver_twist_031.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Kapitola dvacátá pátá",
+          "href": "OEBPS/Text/oliver_twist_032.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Kapitola dvacátá šestá",
+          "href": "OEBPS/Text/oliver_twist_033.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Kapitola dvacátá sedmá",
+          "href": "OEBPS/Text/oliver_twist_034.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Kapitola dvacátá osmá",
+          "href": "OEBPS/Text/oliver_twist_035.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "Kapitola dvacátá devátá",
+          "href": "OEBPS/Text/oliver_twist_036.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Kapitola třicátá",
+          "href": "OEBPS/Text/oliver_twist_037.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Kapitola třicátá prvá",
+          "href": "OEBPS/Text/oliver_twist_038.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Kapitola třicátá druhá",
+          "href": "OEBPS/Text/oliver_twist_039.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Kapitola třicátá třetí",
+          "href": "OEBPS/Text/oliver_twist_040.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Kapitola třicátá čtvrtá",
+          "href": "OEBPS/Text/oliver_twist_041.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Kapitola třicátá pátá",
+          "href": "OEBPS/Text/oliver_twist_042.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Kapitola třicátá šestá",
+          "href": "OEBPS/Text/oliver_twist_043.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Kapitola třicátá sedmá",
+          "href": "OEBPS/Text/oliver_twist_044.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "Kapitola třicátá osmá",
+          "href": "OEBPS/Text/oliver_twist_045.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "Kapitola třicátá devátá",
+          "href": "OEBPS/Text/oliver_twist_046.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "Kapitola čtyřicátá",
+          "href": "OEBPS/Text/oliver_twist_047.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "Kapitola čtyřicátá prvá",
+          "href": "OEBPS/Text/oliver_twist_048.xhtml#_idParaDest-44"
+        },
+        {
+          "title": "Kapitola čtyřicátá druhá",
+          "href": "OEBPS/Text/oliver_twist_049.xhtml#_idParaDest-45"
+        },
+        {
+          "title": "Kapitola čtyřicátá třetí",
+          "href": "OEBPS/Text/oliver_twist_050.xhtml#_idParaDest-46"
+        },
+        {
+          "title": "Kapitola čtyřicátá čtvrtá",
+          "href": "OEBPS/Text/oliver_twist_051.xhtml#_idParaDest-47"
+        },
+        {
+          "title": "Kapitola čtyřicátá pátá",
+          "href": "OEBPS/Text/oliver_twist_052.xhtml#_idParaDest-48"
+        },
+        {
+          "title": "Kapitola čtyřicátá šestá",
+          "href": "OEBPS/Text/oliver_twist_053.xhtml#_idParaDest-49"
+        },
+        {
+          "title": "Kapitola čtyřicátá sedmá",
+          "href": "OEBPS/Text/oliver_twist_054.xhtml#_idParaDest-50"
+        },
+        {
+          "title": "Kapitola čtyřicátá osmá",
+          "href": "OEBPS/Text/oliver_twist_055.xhtml#_idParaDest-51"
+        },
+        {
+          "title": "Kapitola čtyřicátá devátá",
+          "href": "OEBPS/Text/oliver_twist_056.xhtml#_idParaDest-52"
+        },
+        {
+          "title": "Kapitola padesátá",
+          "href": "OEBPS/Text/oliver_twist_057.xhtml#_idParaDest-53"
+        },
+        {
+          "title": "Kapitola padesátá prvá",
+          "href": "OEBPS/Text/oliver_twist_058.xhtml#_idParaDest-54"
+        },
+        {
+          "title": "Kapitola padesátá druhá",
+          "href": "OEBPS/Text/oliver_twist_059.xhtml#_idParaDest-55"
+        },
+        {
+          "title": "Kapitola padesátá třetí",
+          "href": "OEBPS/Text/oliver_twist_060.xhtml#_idParaDest-56"
+        }
+      ],
+      "href": "OEBPS/Text/oliver_twist_006.xhtml#_idParaDest-2"
+    }
+  ]
+}
