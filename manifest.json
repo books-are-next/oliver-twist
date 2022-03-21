@@ -2,38 +2,18 @@
   "author": "Charles Dickens",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "dickens-oliver-twist-d3ad61c",
+  "identifier": "dickens-oliver-twist-0f33bd4",
   "languagecode": "cs",
   "modified": "2022-03-12T08:09:34.866Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Oliver Twist",
-  "revision": "d3ad61c",
+  "revision": "0f33bd4",
   "generatedAt": {
-    "date": "Mon Mar 21 2022 13:35:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647869757270
+    "date": "Mon Mar 21 2022 18:25:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647887139113
   },
   "documents": [
-    {
-      "title": "Oliver Twist",
-      "file": "oliver_twist_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "oliver_twist_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Oliver Twist",
       "file": "oliver_twist_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "oliver_twist_001.html",
-      "next": "oliver_twist_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Oliver Twist",
-      "file": "oliver_twist_003.html",
-      "words": 9,
-      "chars": 65,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "oliver_twist_002.html",
-      "next": "oliver_twist_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Oliver Twist",
-      "file": "oliver_twist_004.html",
-      "words": 90,
-      "chars": 592,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "oliver_twist_003.html",
+      "order": 0,
+      "prev": null,
       "next": "oliver_twist_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 7343,
       "ideas": 12,
       "role": "chapter",
-      "order": 4,
-      "prev": "oliver_twist_004.html",
+      "order": 1,
+      "prev": "oliver_twist_002.html",
       "next": "oliver_twist_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 22,
       "ideas": 1,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "oliver_twist_005.html",
       "next": "oliver_twist_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 1650,
       "ideas": 43,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "oliver_twist_006.html",
       "next": "oliver_twist_008.html",
       "toc": [
@@ -161,7 +101,7 @@
       "chars": 5993,
       "ideas": 21,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "oliver_twist_007.html",
       "next": "oliver_twist_009.html",
       "toc": [
@@ -181,7 +121,7 @@
       "chars": 21451,
       "ideas": 82,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "oliver_twist_008.html",
       "next": "oliver_twist_010.html",
       "toc": [
@@ -201,7 +141,7 @@
       "chars": 17102,
       "ideas": 78,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "oliver_twist_009.html",
       "next": "oliver_twist_011.html",
       "toc": [
@@ -221,7 +161,7 @@
       "chars": 14155,
       "ideas": 67,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "oliver_twist_010.html",
       "next": "oliver_twist_012.html",
       "toc": [
@@ -241,7 +181,7 @@
       "chars": 21774,
       "ideas": 89,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "oliver_twist_011.html",
       "next": "oliver_twist_013.html",
       "toc": [
@@ -261,7 +201,7 @@
       "chars": 9975,
       "ideas": 40,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "oliver_twist_012.html",
       "next": "oliver_twist_014.html",
       "toc": [
@@ -281,7 +221,7 @@
       "chars": 13068,
       "ideas": 61,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "oliver_twist_013.html",
       "next": "oliver_twist_015.html",
       "toc": [
@@ -301,7 +241,7 @@
       "chars": 17009,
       "ideas": 57,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "oliver_twist_014.html",
       "next": "oliver_twist_016.html",
       "toc": [
@@ -321,7 +261,7 @@
       "chars": 12509,
       "ideas": 59,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "oliver_twist_015.html",
       "next": "oliver_twist_017.html",
       "toc": [
@@ -341,7 +281,7 @@
       "chars": 9538,
       "ideas": 37,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "oliver_twist_016.html",
       "next": "oliver_twist_018.html",
       "toc": [
@@ -361,7 +301,7 @@
       "chars": 14295,
       "ideas": 91,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "oliver_twist_017.html",
       "next": "oliver_twist_019.html",
       "toc": [
@@ -381,7 +321,7 @@
       "chars": 18889,
       "ideas": 86,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "oliver_twist_018.html",
       "next": "oliver_twist_020.html",
       "toc": [
@@ -401,7 +341,7 @@
       "chars": 15709,
       "ideas": 90,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "oliver_twist_019.html",
       "next": "oliver_twist_021.html",
       "toc": [
@@ -421,7 +361,7 @@
       "chars": 20879,
       "ideas": 100,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "oliver_twist_020.html",
       "next": "oliver_twist_022.html",
       "toc": [
@@ -441,7 +381,7 @@
       "chars": 12786,
       "ideas": 66,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "oliver_twist_021.html",
       "next": "oliver_twist_023.html",
       "toc": [
@@ -461,7 +401,7 @@
       "chars": 19125,
       "ideas": 96,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "oliver_twist_022.html",
       "next": "oliver_twist_024.html",
       "toc": [
@@ -481,7 +421,7 @@
       "chars": 18202,
       "ideas": 102,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "oliver_twist_023.html",
       "next": "oliver_twist_025.html",
       "toc": [
@@ -501,7 +441,7 @@
       "chars": 16744,
       "ideas": 64,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "oliver_twist_024.html",
       "next": "oliver_twist_026.html",
       "toc": [
@@ -521,7 +461,7 @@
       "chars": 18487,
       "ideas": 109,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "oliver_twist_025.html",
       "next": "oliver_twist_027.html",
       "toc": [
@@ -541,7 +481,7 @@
       "chars": 16066,
       "ideas": 80,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "oliver_twist_026.html",
       "next": "oliver_twist_028.html",
       "toc": [
@@ -561,7 +501,7 @@
       "chars": 11842,
       "ideas": 45,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "oliver_twist_027.html",
       "next": "oliver_twist_029.html",
       "toc": [
@@ -581,7 +521,7 @@
       "chars": 13572,
       "ideas": 70,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "oliver_twist_028.html",
       "next": "oliver_twist_030.html",
       "toc": [
@@ -601,7 +541,7 @@
       "chars": 15455,
       "ideas": 62,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "oliver_twist_029.html",
       "next": "oliver_twist_031.html",
       "toc": [
@@ -621,7 +561,7 @@
       "chars": 11145,
       "ideas": 59,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "oliver_twist_030.html",
       "next": "oliver_twist_032.html",
       "toc": [
@@ -641,7 +581,7 @@
       "chars": 12123,
       "ideas": 59,
       "role": "chapter",
-      "order": 31,
+      "order": 28,
       "prev": "oliver_twist_031.html",
       "next": "oliver_twist_033.html",
       "toc": [
@@ -661,7 +601,7 @@
       "chars": 24910,
       "ideas": 112,
       "role": "chapter",
-      "order": 32,
+      "order": 29,
       "prev": "oliver_twist_032.html",
       "next": "oliver_twist_034.html",
       "toc": [
@@ -681,7 +621,7 @@
       "chars": 14336,
       "ideas": 76,
       "role": "chapter",
-      "order": 33,
+      "order": 30,
       "prev": "oliver_twist_033.html",
       "next": "oliver_twist_035.html",
       "toc": [
@@ -701,7 +641,7 @@
       "chars": 18844,
       "ideas": 91,
       "role": "chapter",
-      "order": 34,
+      "order": 31,
       "prev": "oliver_twist_034.html",
       "next": "oliver_twist_036.html",
       "toc": [
@@ -721,7 +661,7 @@
       "chars": 7722,
       "ideas": 40,
       "role": "chapter",
-      "order": 35,
+      "order": 32,
       "prev": "oliver_twist_035.html",
       "next": "oliver_twist_037.html",
       "toc": [
@@ -741,7 +681,7 @@
       "chars": 13289,
       "ideas": 63,
       "role": "chapter",
-      "order": 36,
+      "order": 33,
       "prev": "oliver_twist_036.html",
       "next": "oliver_twist_038.html",
       "toc": [
@@ -761,7 +701,7 @@
       "chars": 22186,
       "ideas": 91,
       "role": "chapter",
-      "order": 37,
+      "order": 34,
       "prev": "oliver_twist_037.html",
       "next": "oliver_twist_039.html",
       "toc": [
@@ -781,7 +721,7 @@
       "chars": 17887,
       "ideas": 58,
       "role": "chapter",
-      "order": 38,
+      "order": 35,
       "prev": "oliver_twist_038.html",
       "next": "oliver_twist_040.html",
       "toc": [
@@ -801,7 +741,7 @@
       "chars": 17872,
       "ideas": 65,
       "role": "chapter",
-      "order": 39,
+      "order": 36,
       "prev": "oliver_twist_039.html",
       "next": "oliver_twist_041.html",
       "toc": [
@@ -821,7 +761,7 @@
       "chars": 20551,
       "ideas": 75,
       "role": "chapter",
-      "order": 40,
+      "order": 37,
       "prev": "oliver_twist_040.html",
       "next": "oliver_twist_042.html",
       "toc": [
@@ -841,7 +781,7 @@
       "chars": 15572,
       "ideas": 61,
       "role": "chapter",
-      "order": 41,
+      "order": 38,
       "prev": "oliver_twist_041.html",
       "next": "oliver_twist_043.html",
       "toc": [
@@ -861,7 +801,7 @@
       "chars": 5410,
       "ideas": 29,
       "role": "chapter",
-      "order": 42,
+      "order": 39,
       "prev": "oliver_twist_042.html",
       "next": "oliver_twist_044.html",
       "toc": [
@@ -881,7 +821,7 @@
       "chars": 20296,
       "ideas": 103,
       "role": "chapter",
-      "order": 43,
+      "order": 40,
       "prev": "oliver_twist_043.html",
       "next": "oliver_twist_045.html",
       "toc": [
@@ -901,7 +841,7 @@
       "chars": 19951,
       "ideas": 111,
       "role": "chapter",
-      "order": 44,
+      "order": 41,
       "prev": "oliver_twist_044.html",
       "next": "oliver_twist_046.html",
       "toc": [
@@ -921,7 +861,7 @@
       "chars": 29283,
       "ideas": 141,
       "role": "chapter",
-      "order": 45,
+      "order": 42,
       "prev": "oliver_twist_045.html",
       "next": "oliver_twist_047.html",
       "toc": [
@@ -941,7 +881,7 @@
       "chars": 14296,
       "ideas": 60,
       "role": "chapter",
-      "order": 46,
+      "order": 43,
       "prev": "oliver_twist_046.html",
       "next": "oliver_twist_048.html",
       "toc": [
@@ -961,7 +901,7 @@
       "chars": 19800,
       "ideas": 79,
       "role": "chapter",
-      "order": 47,
+      "order": 44,
       "prev": "oliver_twist_047.html",
       "next": "oliver_twist_049.html",
       "toc": [
@@ -981,7 +921,7 @@
       "chars": 20437,
       "ideas": 123,
       "role": "chapter",
-      "order": 48,
+      "order": 45,
       "prev": "oliver_twist_048.html",
       "next": "oliver_twist_050.html",
       "toc": [
@@ -1001,7 +941,7 @@
       "chars": 21323,
       "ideas": 107,
       "role": "chapter",
-      "order": 49,
+      "order": 46,
       "prev": "oliver_twist_049.html",
       "next": "oliver_twist_051.html",
       "toc": [
@@ -1021,7 +961,7 @@
       "chars": 13201,
       "ideas": 71,
       "role": "chapter",
-      "order": 50,
+      "order": 47,
       "prev": "oliver_twist_050.html",
       "next": "oliver_twist_052.html",
       "toc": [
@@ -1041,7 +981,7 @@
       "chars": 6655,
       "ideas": 48,
       "role": "chapter",
-      "order": 51,
+      "order": 48,
       "prev": "oliver_twist_051.html",
       "next": "oliver_twist_053.html",
       "toc": [
@@ -1061,7 +1001,7 @@
       "chars": 19343,
       "ideas": 94,
       "role": "chapter",
-      "order": 52,
+      "order": 49,
       "prev": "oliver_twist_052.html",
       "next": "oliver_twist_054.html",
       "toc": [
@@ -1081,7 +1021,7 @@
       "chars": 13625,
       "ideas": 81,
       "role": "chapter",
-      "order": 53,
+      "order": 50,
       "prev": "oliver_twist_053.html",
       "next": "oliver_twist_055.html",
       "toc": [
@@ -1101,7 +1041,7 @@
       "chars": 19126,
       "ideas": 60,
       "role": "chapter",
-      "order": 54,
+      "order": 51,
       "prev": "oliver_twist_054.html",
       "next": "oliver_twist_056.html",
       "toc": [
@@ -1121,7 +1061,7 @@
       "chars": 19832,
       "ideas": 87,
       "role": "chapter",
-      "order": 55,
+      "order": 52,
       "prev": "oliver_twist_055.html",
       "next": "oliver_twist_057.html",
       "toc": [
@@ -1141,7 +1081,7 @@
       "chars": 22300,
       "ideas": 98,
       "role": "chapter",
-      "order": 56,
+      "order": 53,
       "prev": "oliver_twist_056.html",
       "next": "oliver_twist_058.html",
       "toc": [
@@ -1161,7 +1101,7 @@
       "chars": 26970,
       "ideas": 106,
       "role": "chapter",
-      "order": 57,
+      "order": 54,
       "prev": "oliver_twist_057.html",
       "next": "oliver_twist_059.html",
       "toc": [
@@ -1181,7 +1121,7 @@
       "chars": 17515,
       "ideas": 64,
       "role": "chapter",
-      "order": 58,
+      "order": 55,
       "prev": "oliver_twist_058.html",
       "next": "oliver_twist_060.html",
       "toc": [
@@ -1201,9 +1141,9 @@
       "chars": 8682,
       "ideas": 18,
       "role": "chapter",
-      "order": 59,
+      "order": 56,
       "prev": "oliver_twist_059.html",
-      "next": "oliver_twist_061.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -1215,20 +1155,20 @@
       ]
     },
     {
-      "title": "Oliver Twist",
-      "file": "oliver_twist_061.html",
-      "words": 50,
-      "chars": 339,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 60,
+      "title": "Tiráž • Oliver Twist",
+      "file": "colophon.html",
+      "words": 150,
+      "chars": 1001,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
       "prev": "oliver_twist_060.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -1242,9 +1182,9 @@
       "ideas": 4065
     },
     "chapters": {
-      "words": 147505,
-      "chars": 879118,
-      "ideas": 4060
+      "words": 147356,
+      "chars": 878122,
+      "ideas": 4038
     }
   }
 }
