@@ -708,8 +708,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -717,7 +716,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Charles Dickens",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-12T08:24:01.336Z"
+      "modified": "2021-03-11T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -1166,6 +1165,6 @@
       "user": "books-are-next",
       "repo": "oliver-twist"
     },
-    "generatedAt": 1647073442398
+    "generatedAt": 1647869622213
   }
 }
