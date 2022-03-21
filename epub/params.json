@@ -34,50 +34,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "oliver_twist_001.md",
             "xhtml": "oliver_twist_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "oliver_twist_002.md",
             "xhtml": "oliver_twist_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "oliver_twist_003.md",
             "xhtml": "oliver_twist_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "oliver_twist_004.md",
             "xhtml": "oliver_twist_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "oliver_twist_005.md",
@@ -88,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Předmluva"
           },
           {
             "filename": "oliver_twist_006.md",
@@ -99,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "PŘÍHODY OLIVERA TWISTA"
           },
           {
             "filename": "oliver_twist_007.md",
@@ -110,7 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Osoby"
           },
           {
             "filename": "oliver_twist_008.md",
@@ -121,7 +132,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola prvá"
           },
           {
             "filename": "oliver_twist_009.md",
@@ -132,7 +145,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola druhá"
           },
           {
             "filename": "oliver_twist_010.md",
@@ -143,7 +158,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třetí"
           },
           {
             "filename": "oliver_twist_011.md",
@@ -154,7 +171,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtvrtá"
           },
           {
             "filename": "oliver_twist_012.md",
@@ -165,7 +184,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola pátá"
           },
           {
             "filename": "oliver_twist_013.md",
@@ -176,7 +197,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola šestá"
           },
           {
             "filename": "oliver_twist_014.md",
@@ -187,7 +210,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola sedmá"
           },
           {
             "filename": "oliver_twist_015.md",
@@ -198,7 +223,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola osmá"
           },
           {
             "filename": "oliver_twist_016.md",
@@ -209,7 +236,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola devátá"
           },
           {
             "filename": "oliver_twist_017.md",
@@ -220,7 +249,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola desátá"
           },
           {
             "filename": "oliver_twist_018.md",
@@ -231,7 +262,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola jedenáctá"
           },
           {
             "filename": "oliver_twist_019.md",
@@ -242,7 +275,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvanáctá"
           },
           {
             "filename": "oliver_twist_020.md",
@@ -253,7 +288,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třináctá"
           },
           {
             "filename": "oliver_twist_021.md",
@@ -264,7 +301,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtrnáctá"
           },
           {
             "filename": "oliver_twist_022.md",
@@ -275,7 +314,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola patnáctá"
           },
           {
             "filename": "oliver_twist_023.md",
@@ -286,7 +327,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola šestnáctá"
           },
           {
             "filename": "oliver_twist_024.md",
@@ -297,7 +340,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola sedmnáctá"
           },
           {
             "filename": "oliver_twist_025.md",
@@ -308,7 +353,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola osmnáctá"
           },
           {
             "filename": "oliver_twist_026.md",
@@ -319,7 +366,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola devatenáctá"
           },
           {
             "filename": "oliver_twist_027.md",
@@ -330,7 +379,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá"
           },
           {
             "filename": "oliver_twist_028.md",
@@ -341,7 +392,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá prvá"
           },
           {
             "filename": "oliver_twist_029.md",
@@ -352,7 +405,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá druhá"
           },
           {
             "filename": "oliver_twist_030.md",
@@ -363,7 +418,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá třetí"
           },
           {
             "filename": "oliver_twist_031.md",
@@ -374,7 +431,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá čtvrtá"
           },
           {
             "filename": "oliver_twist_032.md",
@@ -385,7 +444,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá pátá"
           },
           {
             "filename": "oliver_twist_033.md",
@@ -396,7 +457,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá šestá"
           },
           {
             "filename": "oliver_twist_034.md",
@@ -407,7 +470,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá sedmá"
           },
           {
             "filename": "oliver_twist_035.md",
@@ -418,7 +483,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá osmá"
           },
           {
             "filename": "oliver_twist_036.md",
@@ -429,7 +496,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá devátá"
           },
           {
             "filename": "oliver_twist_037.md",
@@ -440,7 +509,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá"
           },
           {
             "filename": "oliver_twist_038.md",
@@ -451,7 +522,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá prvá"
           },
           {
             "filename": "oliver_twist_039.md",
@@ -462,7 +535,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá druhá"
           },
           {
             "filename": "oliver_twist_040.md",
@@ -473,7 +548,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá třetí"
           },
           {
             "filename": "oliver_twist_041.md",
@@ -484,7 +561,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá čtvrtá"
           },
           {
             "filename": "oliver_twist_042.md",
@@ -495,7 +574,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá pátá"
           },
           {
             "filename": "oliver_twist_043.md",
@@ -506,7 +587,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá šestá"
           },
           {
             "filename": "oliver_twist_044.md",
@@ -517,7 +600,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá sedmá "
           },
           {
             "filename": "oliver_twist_045.md",
@@ -528,7 +613,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá osmá"
           },
           {
             "filename": "oliver_twist_046.md",
@@ -539,7 +626,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá devátá"
           },
           {
             "filename": "oliver_twist_047.md",
@@ -550,7 +639,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá"
           },
           {
             "filename": "oliver_twist_048.md",
@@ -561,7 +652,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá prvá"
           },
           {
             "filename": "oliver_twist_049.md",
@@ -572,7 +665,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá druhá"
           },
           {
             "filename": "oliver_twist_050.md",
@@ -583,7 +678,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá třetí"
           },
           {
             "filename": "oliver_twist_051.md",
@@ -594,7 +691,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá čtvrtá "
           },
           {
             "filename": "oliver_twist_052.md",
@@ -605,7 +704,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá pátá"
           },
           {
             "filename": "oliver_twist_053.md",
@@ -616,7 +717,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá šestá"
           },
           {
             "filename": "oliver_twist_054.md",
@@ -627,7 +730,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá sedmá"
           },
           {
             "filename": "oliver_twist_055.md",
@@ -638,7 +743,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá osmá"
           },
           {
             "filename": "oliver_twist_056.md",
@@ -649,7 +756,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá devátá"
           },
           {
             "filename": "oliver_twist_057.md",
@@ -660,7 +769,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá"
           },
           {
             "filename": "oliver_twist_058.md",
@@ -671,7 +782,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá prvá "
           },
           {
             "filename": "oliver_twist_059.md",
@@ -682,7 +795,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá druhá"
           },
           {
             "filename": "oliver_twist_060.md",
@@ -693,18 +808,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá třetí"
           },
           {
             "filename": "oliver_twist_061.md",
             "xhtml": "oliver_twist_061.xhtml",
             "id": 60,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -717,7 +835,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Charles Dickens",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-12T08:09:34.866Z"
+      "modified": "2021-03-11T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -745,337 +863,337 @@
         "xhtml": "oliver_twist_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Předmluva",
         "subtitleSuggest": "",
         "filename": "oliver_twist_005.md",
         "xhtml": "oliver_twist_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PŘÍHODY OLIVERA TWISTA",
         "subtitleSuggest": "",
         "filename": "oliver_twist_006.md",
         "xhtml": "oliver_twist_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Osoby",
         "subtitleSuggest": "",
         "filename": "oliver_twist_007.md",
         "xhtml": "oliver_twist_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola prvá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_008.md",
         "xhtml": "oliver_twist_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola druhá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_009.md",
         "xhtml": "oliver_twist_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola třetí",
         "subtitleSuggest": "",
         "filename": "oliver_twist_010.md",
         "xhtml": "oliver_twist_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola čtvrtá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_011.md",
         "xhtml": "oliver_twist_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola pátá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_012.md",
         "xhtml": "oliver_twist_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola šestá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_013.md",
         "xhtml": "oliver_twist_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola sedmá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_014.md",
         "xhtml": "oliver_twist_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola osmá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_015.md",
         "xhtml": "oliver_twist_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola devátá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_016.md",
         "xhtml": "oliver_twist_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola desátá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_017.md",
         "xhtml": "oliver_twist_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola jedenáctá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_018.md",
         "xhtml": "oliver_twist_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola dvanáctá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_019.md",
         "xhtml": "oliver_twist_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola třináctá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_020.md",
         "xhtml": "oliver_twist_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola čtrnáctá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_021.md",
         "xhtml": "oliver_twist_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola patnáctá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_022.md",
         "xhtml": "oliver_twist_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola šestnáctá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_023.md",
         "xhtml": "oliver_twist_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola sedmnáctá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_024.md",
         "xhtml": "oliver_twist_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola osmnáctá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_025.md",
         "xhtml": "oliver_twist_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola devatenáctá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_026.md",
         "xhtml": "oliver_twist_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola dvacátá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_027.md",
         "xhtml": "oliver_twist_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola dvacátá prvá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_028.md",
         "xhtml": "oliver_twist_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola dvacátá druhá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_029.md",
         "xhtml": "oliver_twist_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola dvacátá třetí",
         "subtitleSuggest": "",
         "filename": "oliver_twist_030.md",
         "xhtml": "oliver_twist_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola dvacátá čtvrtá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_031.md",
         "xhtml": "oliver_twist_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola dvacátá pátá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_032.md",
         "xhtml": "oliver_twist_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola dvacátá šestá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_033.md",
         "xhtml": "oliver_twist_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola dvacátá sedmá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_034.md",
         "xhtml": "oliver_twist_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola dvacátá osmá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_035.md",
         "xhtml": "oliver_twist_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola dvacátá devátá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_036.md",
         "xhtml": "oliver_twist_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola třicátá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_037.md",
         "xhtml": "oliver_twist_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola třicátá prvá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_038.md",
         "xhtml": "oliver_twist_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola třicátá druhá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_039.md",
         "xhtml": "oliver_twist_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola třicátá třetí",
         "subtitleSuggest": "",
         "filename": "oliver_twist_040.md",
         "xhtml": "oliver_twist_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola třicátá čtvrtá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_041.md",
         "xhtml": "oliver_twist_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola třicátá pátá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_042.md",
         "xhtml": "oliver_twist_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola třicátá šestá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_043.md",
         "xhtml": "oliver_twist_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola třicátá sedmá ",
         "subtitleSuggest": "",
         "filename": "oliver_twist_044.md",
         "xhtml": "oliver_twist_044.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola třicátá osmá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_045.md",
         "xhtml": "oliver_twist_045.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola třicátá devátá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_046.md",
         "xhtml": "oliver_twist_046.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola čtyřicátá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_047.md",
         "xhtml": "oliver_twist_047.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola čtyřicátá prvá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_048.md",
         "xhtml": "oliver_twist_048.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola čtyřicátá druhá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_049.md",
         "xhtml": "oliver_twist_049.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola čtyřicátá třetí",
         "subtitleSuggest": "",
         "filename": "oliver_twist_050.md",
         "xhtml": "oliver_twist_050.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola čtyřicátá čtvrtá ",
         "subtitleSuggest": "",
         "filename": "oliver_twist_051.md",
         "xhtml": "oliver_twist_051.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola čtyřicátá pátá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_052.md",
         "xhtml": "oliver_twist_052.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola čtyřicátá šestá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_053.md",
         "xhtml": "oliver_twist_053.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola čtyřicátá sedmá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_054.md",
         "xhtml": "oliver_twist_054.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola čtyřicátá osmá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_055.md",
         "xhtml": "oliver_twist_055.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola čtyřicátá devátá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_056.md",
         "xhtml": "oliver_twist_056.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola padesátá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_057.md",
         "xhtml": "oliver_twist_057.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola padesátá prvá ",
         "subtitleSuggest": "",
         "filename": "oliver_twist_058.md",
         "xhtml": "oliver_twist_058.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola padesátá druhá",
         "subtitleSuggest": "",
         "filename": "oliver_twist_059.md",
         "xhtml": "oliver_twist_059.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola padesátá třetí",
         "subtitleSuggest": "",
         "filename": "oliver_twist_060.md",
         "xhtml": "oliver_twist_060.xhtml"
@@ -1166,6 +1284,6 @@
       "user": "books-are-next",
       "repo": "oliver-twist"
     },
-    "generatedAt": 1647072575582
+    "generatedAt": 1647869622213
   }
 }
