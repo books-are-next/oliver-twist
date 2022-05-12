@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - oliver_twist_002.html
+  - promo.html
   - oliver_twist_005.html
   - oliver_twist_006.html
   - oliver_twist_007.html
