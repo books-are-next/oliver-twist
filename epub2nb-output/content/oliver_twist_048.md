@@ -3,10 +3,14 @@ title: Kapitola čtyřicátá prvá
 contentType: prose
 ---
 
+<section>
+
 _Obsahuje nové objevy a ukazuje, že překvapení,  
 stejně jako neštěstí zřídka přichází samo_
 
-  
+</section>
+
+<section>
 
 Byla v situaci vskutku neobyčejně krušné a svízelné. Ačkoli přímo živelně dychtila a prahla proniknout tajemství, které halilo Oliverův životní příběh, nemohla jinak než pokládat důvěru, kterou v ni jako v mladou bezelstnou dívku skládala ubožačka, s níž právě skončila hovor, za posvátnou. Její slova i vystupování Rózu Maylieovou dojaly a tak se s láskou k jejímu malému chráněnci mísilo i zbožné přání, ve své opravdovosti a vroucnosti sotva méně hluboké, získat to vyvržené stvoření – Nancy – zpátky pro život kajícnosti a naděje.
 
@@ -159,3 +163,5 @@ Róza se hluboce zarděla, ale slovní námitku proti doktorovu návrhu nevznesl
 „Dobrá!“ přisvědčil pan Brownlow. „A poněvadž ve všech tvářích kolem sebe vidím chuť se zeptat, jak to přišlo, že jsem nebyl dostupný, abych mohl Oliverovu výpověď potvrdit, a že jsem tak náhle opustil naše království, dovolte, abych si vymínil, že se mě nikdo nebude na nic vyptávat, dokud sám neuznám za vhodné všem otázkám předejít tím, že vypovím svoje. Věřte mi, že mám závažný důvod, proč tuto žádost vznáším, neboť jinak bych mohl vzbudit naděje, kterým je souzeno, že se nikdy nesplní, a jen rozmnožit potíže a zklamání, už beztak dost četné. Pojďme! Už se podává večeře, jak hlásili, a malý Oliver, který je vedle v pokoji docela sám, si touhle dobou už jistě myslí, že jsme se jeho společnosti nabažili a kujeme nějaké temné pikle, jak ho vystrnadit a zase vydat světu napospas.“
 
 Po těch slovech nabídl starý pán paní Maylieové rámě a provázel ji do jídelny. Pan Losberne vykročil za nimi a vedl Rózu, a tak se porada prozatím odročila.
+
+</section>

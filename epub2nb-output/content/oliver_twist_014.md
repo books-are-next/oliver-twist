@@ -3,9 +3,13 @@ title: Kapitola sedmá
 contentType: prose
 ---
 
+<section>
+
 _Oliver setrvává ve vzpurnosti_
 
-  
+</section>
+
+<section>
 
 Noe Claypole uháněl ulicemi, co mu nohy stačily, a ani jedinkrát se nezastavil, aby popadl dech, dokud nedorazil k vratům špitálu. Když si tam minutku dvě odpočinul, aby naschráněl pořádnou zásobu prudkých vzlyků na působivou ukázku slz a zděšení, zabouřil hlučně na dvířka ve vratech a stařičkému špitálníkovi, který mu otevřel, ukázal tvář tak utrápenou, že i ten, ačkoli po většinu času kolem sebe neviděl nic jiného než utrápené tváře, s úžasem ucouvl.
 
@@ -124,3 +128,5 @@ Konečně došel k domku. Nikde nebylo známky, že by jeho obyvatelé byli v 
 „To doufám,“ odpovědělo dítě. „Ale až umřu, dřív ne. Vím, že doktor musel mluvit pravdu, Olivere, protože se mi pořád tolik zdá o nebi a o andělech a o laskavých tvářích, jaké nikdy nevidím, když jsem vzhůru – Polib mě,“ vyhrklo dítě, když vylezlo na nízkou branku a prudce objalo Olivera kolem krku. „Sbohem, drahý Olivere! Žehnej ti pánbůh!“
 
 Toto požehnání splynulo ze rtů malého dítěte, ale bylo první, které Oliver dosud v životě uslyšel svolávat na svou hlavu. A po celou dobu všech protivenství a utrpení i starostí a zvratů svého dalšího života na ně jedinkrát nezapomněl.
+
+</section>

@@ -3,9 +3,13 @@ title: Kapitola čtyřicátá sedmá
 contentType: prose
 ---
 
+<section>
+
 _Osudné následky_
 
-  
+</section>
+
+<section>
 
 Bylo asi dvě hodiny před rozedněním, ona doba, kterou lze v jeseni roku právem zvát nejhlubší nocí; doba, kdy ulice jsou tiché a pusté, kdy se zdá, jako by spaly i samy zvuky a kdy nevázanost a zhýralost již dovrávoraly domů ke snění. V této hodině klidu a ticha seděl Fagin ve svém starém doupěti s tváří tak zrůzněnou a bledou a s očima tak červenýma a podlitýma, že vypadal spíš jako nějaký ohyzdný přízrak povstalý z mokrého hrobu a trýzněný zlým duchem než jako člověk; a bděl.
 
@@ -164,3 +168,5 @@ Lupiči se podařilo vyprostit si jednu ruku a chopit se pistole. Přes všeche
 Dívka zavrávorala a svalila se téměř oslepená krví, která se jí vyřinula z hluboké otevřené rány na čele. Ale přesto se s námahou zvedla na kolena, vytáhla ze záňadří bílý kapesníček – památku na Rózu Maylieovou – a pozdvihla ho v sepjatých rukou tak vysoko k nebi, jak jí chabé síly stačily, a neslyšným šeptem prosila Stvořitele o slitování.
 
 Na její postavu byl příšerný pohled. Vrah se pozadu dopotácel ke zdi, zastřel si rukou oči, aby dívku neviděl, popadl silný klacek a srazil ji k zemi.
+
+</section>

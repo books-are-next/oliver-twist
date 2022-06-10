@@ -3,10 +3,14 @@ title: Kapitola dvacátá šestá
 contentType: prose
 ---
 
+<section>
+
 _V níž na scénu vstupuje záhadná osoba a v níž se přihodí i vykoná  
 mnoho věcí od tohoto příběhu neodlučitelných_
 
-  
+</section>
+
+<section>
 
 Stařík doběhl až na roh ulice, než se začal probírat z účinků zprávy, kterou přinesl Toby Crackit. Dosud ze své neobvyklé rychlosti ani v nejmenším neslevil, nýbrž hnal se vytrvale dál se stále týmž divokým a rozrušeným chvatem, až ho pojednou kočár, který se kolem něho nenadále mihl, a bouřlivý pokřik chodců, kteří viděli jeho nebezpečí, zahnal zpátky na chodník. Pokud se dalo, co nejvíc se vyhýbal všem hlavním ulicím a prošmejkával se jenom postranními uličkami a průchody, až se konečně vynořil na Snow Hillu. Tam krok dokonce ještě zrychlil a ani na okamžik nepolevil, dokud znovu nezahnul do krátké úzké uličky; teprve tu, jako by si uvědomoval, že konečně je ve svém pravém živlu, přešel ke své obvyklé šouravé chůzi, a jak se zdálo, dýchalo se mu volněji.
 
@@ -227,3 +231,5 @@ Toto hromadění důkazu na důkaz pana Monkse vážně rozkolísávalo. Jak v 
 [26](./resources/undefined) V tomto kontextu ve významu čelit, odpovídat. Pozn. red.
 
 [27](./resources/undefined) Vrtoch, rozmar. Pozn. red.
+
+</section>

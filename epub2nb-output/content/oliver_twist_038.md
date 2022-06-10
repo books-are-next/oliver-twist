@@ -3,9 +3,13 @@ title: Kapitola třicátá prvá
 contentType: prose
 ---
 
+<section>
+
 _Zahrnuje kritickou situaci_
 
-  
+</section>
+
+<section>
 
 „Kdo je?“ zeptal se Brittles, když maličko pootevřel domovní dveře, na nichž ponechal řetěz zaklesnutý, a při svíčce zacloněné rukou nakoukl škvírou ven.
 
@@ -186,3 +190,5 @@ Mezitím se Oliver za vespolné péče paní Maylieové, Rózy a dobrosrdečné
 [28](./resources/undefined) Kořalka. Pozn. red.
 
 [29](./resources/undefined) Krádež. (Ze staršího argotu.) _Pozn. překl._
+
+</section>

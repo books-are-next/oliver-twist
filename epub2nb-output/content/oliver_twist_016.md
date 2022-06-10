@@ -3,10 +3,14 @@ title: Kapitola devátá
 contentType: prose
 ---
 
+<section>
+
 _Obsahuje další podrobnosti o šprýmovném starém pánovi  
 a jeho nadějných žácích_
 
-  
+</section>
+
+<section>
 
 Nazítří ráno bylo již pozdě, když se Oliver probudil ze zdravého dlouhého spánku. V místnosti nebyl nikdo kromě starého žida, který si zrovna v hluboké pánvičce vařil k snídani trochu kávy, a jak ji míchal železnou lžicí dokolečka dokola, tiše si pro sebe pohvizdoval. Co chvíli přestal a zaposlouchal se, když zdola zaslechl i sebeslabší zvuk; jakmile se však upokojil, že to nic není, pokračoval zase v práci a opět si pohvizdoval a míchal jako předtím.
 
@@ -121,3 +125,5 @@ Oliverovi bylo divné, co má žertovné vybírání kapes starému pánovi co d
 * * *
 
 [11](./resources/undefined) Chytrák, šikulka. (Ze staršího argotu.) _Pozn. překl._
+
+</section>

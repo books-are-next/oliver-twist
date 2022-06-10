@@ -3,10 +3,14 @@ title: Kapitola dvacátá sedmá
 contentType: prose
 ---
 
+<section>
+
 _Napravuje nezdvořilost jedné předešlé kapitoly,  
 která nejvýš neobřadně opustila jistou dámu_
 
-  
+</section>
+
+<section>
 
 Jelikož by se na pouhého spisovatele nikterak nehodilo, aby osobnost tak mocnou, jako je serbus, nechal se zády otočenými ke krbu a s šosy kabátu podebranými pod paždím čekat tak dlouho, dokud se jeho libosti neuráčí mu ulevit, a jelikož by dále jeho stavu i rytířskosti slušelo ještě méně, aby se téže nedbalosti dopustil i vůči dámě, na níž onen serbus spočinul okem něžným a milostným a do jejíhož ouška šeptal sladká slůvka, která plynouce z takových úst, právem mohla rozechvívat ňadra panen i paní kteréhokolivěk společenského stupně, pílí dějepravec, jehož pero tato slova krouží – v důvěře, že zná své místo a že chová v náležité vážnosti ty na zemi, kdož jsou pověřeni vysokým a významným úřadem – aby jim vzdal onu úctu, na jakou má jejich postavení plný nárok, a aby s nimi jednal se vší patřičnou obřadností, kterou jejich významná hodnost a (tudíž i) velké ctnosti od jeho pera bezpodmínečně vyžadují. K tomu cíli dokonce hodlal na tomto místě zařadit rozklad, dotýkající se božských práv serbusů a rozvádějící tezi, že co serbus činí, správně činí, rozklad, který by jistojistě býval řádně smýšlejícího čtenáře pobavil i poučil, ale který je pisatel pro nedostatek místa i času želbohu nucen odsunout na nějakou vhodnější a případnější chvíli. Ale jakmile se taková příležitost naskytne, je připraven ukázat, že právoplatně ustanovený serbus, to znamená plnomocný sluha kolaturní obce, přidělený ke kolaturnímu špitálu a ve své úřední hodnosti asistující v kolaturním kostele, je z titulu a moci svého úřadu nadán veškerými znamenitostmi a nejlepšími vlastnostmi lidského plémě, a že ani na jednu z oněch skvělých předností si pouzí sluhové obchodní, spolkoví nebo soudní, ba ani pořádkoví sluhové při kostelech filiálních (leda snad posledně jmenovaní, a ti v míře velice skrovné a nepatrné) ani sebeslabší uhajitelný nárok činit nemohou.
 
@@ -153,3 +157,5 @@ Karolína vyvřískla a schovala obličej do zástěry. Pan Claypole změnil po
 „Ticho!“ křikl přísně pan Bumble. „Syp dolů do kuchyně, slečinko! A ty, Noe, zavři krám – a jestli ještě cekneš slovíčko, dřív než se ti pán vrátí domů, tak si následky přičti sám! A až se ti vrátí, tak mu vyřídíš, že pan Bumble vzkazuje, aby zejtra ráno po snídani poslal jednu babskou truhlu. Slyšíš, panáčku? Prej pusu!“ zhrozil se pan Bumble, až mu ruce vyletěly do výše. „Hříšnost a bezbožnost nižších tříd v tomhle kulaturním obvodě je strašlivá! Jestli parlament s ohavností jejich spuštění nezatočí, tak je naše vlast ztracená a po dobrým jménu venkovskýho lidu je na věky věků veta!“ Po této oraci se serbus s nadutým a podmračeným výrazem vynesl z pohřebníkova domu.
 
 A když jsme tedy vyprovodili serbusa na jeho cestě domů až sem a když jsme rovněž zařídili všechno potřebné pro stařenin pohřeb, poohlédněme a poptejme se nyní zase po malém Oliveru Twistovi, abychom zjistili, leží-li snad dosud v příkopě, kde ho nechal Toby Crackit.
+
+</section>

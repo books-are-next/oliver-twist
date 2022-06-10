@@ -3,9 +3,13 @@ title: Kapitola padesátá druhá
 contentType: prose
 ---
 
+<section>
+
 _Poslední noc Faginova života_
 
-  
+</section>
+
+<section>
 
 Soudní síň byla od podlahy po strop jednolitá mozaika lidských tváří. Z každičkého coulu prostoru vyhlížely zvědavé a dychtivé oči. Od zábradlí před lavicí obžalovaných až po nejostřejší růžek nejtěsnějšího koutku na galeriích se všechny pohledy upíraly na jednoho člověka – na Fagina. Vpředu vzadu, nahoře dole, vpravo vlevo – zdálo se, jako by stál pod klenbou oblohy, celé rozjiskřené planoucími zraky.
 
@@ -132,3 +136,5 @@ Svítal den, když se konečně dostali zase ven. Na ulici se již shromáždil 
 * * *
 
 [40](./resources/undefined) Průvodní jevy, potřeby. _Pozn. red._
+
+</section>

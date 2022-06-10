@@ -3,9 +3,13 @@ title: Kapitola třicátá druhá
 contentType: prose
 ---
 
+<section>
+
 _O šťastném životě, který pro Olivera začal v kruhu laskavých přátel_
 
-  
+</section>
+
+<section>
 
 Oliver nechuravěl ani lehce, ani neměl trampot málo. K bolesti a nepohyblivosti spojené se zraněnou rukou se z ležení na mokré a studené zemi přidala horečka prostřídaná zimničnou třesavkou, která se ho držela mnoho týdnů a zle ho sebrala. Ale konečně se přece jen začal ponenáhlu zotavovat a občas ze sebe mohl vypravit pár uslzených slov a projevit, jak hluboce pociťuje dobrotu obou láskyplných dam a jak vroucně touží, aby jim mohl, až se uzdraví a opět zesílí, svou vděčnost dokázat skutky; alespoň něčím, co by jim ukázalo, jakou láskou a úctou jeho srdce překypuje; čímkoli třeba sebemenším, co by jim potvrdilo, že svou ušlechtilou laskavost nevyplýtvaly nadarmo, nýbrž že ten ubohý hoch, kterého jejich lidumilnost vysvobodila z útrap nebo zachránila před smrtí, celým srdcem i duší dychtí jim sloužit.
 
@@ -118,3 +122,5 @@ A co teprve, když přišla neděle! Jak docela jinak trávil ten den proti tom
 Ráno býval Oliver na nohou už v šest hodin a brousil široko daleko po okolí a plenil meze, aby natrhal kytici polního kvítí; s plnou náručí se potom vracel domů a stálo ho ještě mnoho péče a uvažování, než ji co nejpůsobivěji upravil k ozdobě ranního stolu. Rovněž se staral o čerstvý žabinec pro ptáčky slečny Maylieové (kterýžto předmět Oliver nastudoval pod zkušeným vedením obecního písaře) a zdobil jím klece s opravdu znaleckým vkusem. Když pro ten den opatřil ptáčky a vyšňořil klece, obyčejně se pro něj naskytla nějaká menší dobročinná posílka, kterou měl ve vesnici vyřídit; nebo nebylo-li té, hrával se někdy na obecní louce báječný kriket; nebo nebylo-li toho, vždycky se našla nějaká práce na zahradě nebo u kytiček, jíž se Oliver (který i tuto vědu studoval pod vedením téhož učitele, zkušeného zahradníka) věnoval s upřímným zápalem, až se konečně ukázala slečna Róza, a ta pak nezapomněla zahrnout tisícerou chválou všechno, co vykonal.
 
 Tak uplynuly tři měsíce; tři měsíce, které by v životě smrtelníka hýčkaného vrcholnou přízní a milostí osudu snad bývaly nezkaleným štěstím, ale které v životě Oliverově byly čirou blažeností. Při nejryzejší a nejpřívětivější šlechetnosti na straně jedné a při nejopravdovější, nejvřelejší a nejprocítěnější vděčnosti na straně druhé nebylo divu, že s koncem té krátké doby Oliver Twist v rodině staré dámy a její neteře úplně zdomácněl a ty že vroucí oddanost jeho mladého a citlivého srdce oplácely tím, že byly na něj hrdé a zamilovaly si ho.
+
+</section>

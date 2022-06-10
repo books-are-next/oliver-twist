@@ -3,11 +3,15 @@ title: Kapitola třicátá šestá
 contentType: prose
 ---
 
+<section>
+
 _Je velice krátká a může na tomto místě připadat nevalně důležitá.  
 Přesto ji však je radno přečíst jako doplněk kapitoly předešlé  
 a jako klíč ke kapitole jiné, která bude následovat, až přijde její čas_
 
-  
+</section>
+
+<section>
 
 „Tak jste tedy rozhodnutý dělat mi dnes ráno na cestě společníka, hm?“ zeptal se doktor, když si Harry Maylie přisedl ke stolu, u něhož právě s Oliverem snídal. „Vám přece jeden názor nebo záměr nevydrží ani půlhodinku!“
 
@@ -58,3 +62,5 @@ Ale jeden divák nepřestal upírat oči na místo, kde kočár zmizel, a hled�
 „Zdá se v dobré náladě a šťastný,“ řekla si konečně. „Nějaký čas jsem se bála, že by mohlo být jinak. Mýlila jsem se. To jsem moc a moc ráda.“
 
 Slzy jsou znamením stejně radosti jako žalosti; ale ty, které kanuly po tváři Róze, jak tak seděla zadumaně u okna a upřeně hleděla stále týmž směrem, jako by svědčily spíš o smutku než o potěšení.
+
+</section>

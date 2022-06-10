@@ -3,9 +3,13 @@ title: Kapitola dvacátá prvá
 contentType: prose
 ---
 
+<section>
+
 _Výprava_
 
-  
+</section>
+
+<section>
 
 Bylo bezútěšné jitro, když vyšli na ulici; silně foukalo a pršelo a chmurné mraky vypadaly na bouřku. V noci prudce lilo; v jízdní dráze se nadržely velké kaluže vody a strouhy podél chodníků přetékaly. Na obloze se slabounce mihotal rozbřesk nadcházejícího dne; spíš však scéně na ponurosti přidával, než ubíral, neboť kalný přísvit měl jedině ten účinek, že v něm vybledalo světlo, které skýtaly pouliční lucerny, aniž modré domovní střechy a pusté ulice barvil jediným teplejším nebo jasnějším odstínem. Zdálo se, že v té části města se ještě nikdo nehýbá; okna domů byla všechna pevně zabedněná a ulice, jimiž procházeli, byly úplně tiché a liduprázdné.
 
@@ -92,3 +96,5 @@ Sikes mířil pořád rovně dál, dokud nedošli skoro až k mostu, a potom n
 Už už se chtěl vrhnout na zem a učinit aspoň jediný pokus o záchranu svého mladého života, když vtom spatřil, že před nimi stojí osamělý dům, celý zchátralý, jen se rozpadnout. Z každé strany zpustošeného vchodu bylo jedno okno a nad ním jedno patro, ale nikde nebylo vidět žádné světlo. Dům byl temná ruina a podle všech známek neobydlený.
 
 Sikes, který stále držel Olivera za ruku, tichounce přistoupil k nízkým dveřím pod sloupovou stříškou a zdvihl závoru. Zatlačil, dveře povolily a oba vešli spolu dovnitř.
+
+</section>

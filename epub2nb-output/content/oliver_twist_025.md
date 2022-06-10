@@ -3,10 +3,14 @@ title: Kapitola osmnáctá
 contentType: prose
 ---
 
+<section>
+
 _Jak Oliver trávil čas v zušlechťující společnosti  
 svých domnělých přátel_
 
-  
+</section>
+
+<section>
 
 Příští den kolem poledne, když Lišák a mladý pán Bates odešli za výkonem svého obvyklého zaměstnání, využil pan Fagin příležitosti a četl Oliverovi dlouhé levity o hříchu nevděku, o tom do nebe volajícím hříchu, jehož se Oliver, jak mu jasně prokázal, dopustil v míře nikoli běžné tím, že se svévolně vzdálil ze společnosti svých starostlivých přátel, a v míře ještě větší tím, že se jim snažil uniknout i potom, když už na jeho nalezení vynaložili tolik námahy a výdajů. Pan Fagin kladl veliký důraz na to, že poskytl Oliverovi přístřeší a pečoval o něj, kdežto bez jeho včasné pomoci že by byl možná zahynul hlady; vyprávěl mu také truchlivý a tklivý příběh jednoho mladého hocha, kterého se kdysi ve své lidumilnosti ujal za podobných okolností, ale který, když se ukázal nehodným jeho důvěry a projevil přání vejít ve styk s policií, nešťastně skončil tím, že ho jednoho krásného rána v Old Bailey pověsili. Pan Fagin se nijak nesnažil svůj podíl na této katastrofě zatajit, naopak se slzami v očích bědoval, že vrtohlavě zbloudilé a zrádné jednání dotyčné mladé osoby učinilo naprosto nezbytným, aby se stala obětí jistého korunního svědectví – které, i když snad nebylo zrovna do puntíku pravdivé, bylo nevyhnutelně nutné pro bezpečí jeho (pana Fagina) a několika vyvolených přátel. Na závěr načrtl pan Fagin značně nepříjemný obraz nelibých pocitů při věšení a potom tónem nadmíru přátelským a zdvořilým projevil toužebné přání, aby nikdy nebyl dohnán k nutnosti Olivera Twista této nemilé proceduře vystavit.
 
@@ -131,3 +135,5 @@ Zkrátka, lstivý starý žid měl hocha ve svých tenatech. Když nejdřív sam
 [20](./resources/undefined) _Hadovat, dělat hada_ – udávat, udat, zradit policii, „prásknout“. (Ze staršího argotu.) _Pozn. překl._
 
 [21](./resources/undefined) Pracovat (ve smyslu krást). (Ze staršího argotu.) _Pozn. překl._
+
+</section>

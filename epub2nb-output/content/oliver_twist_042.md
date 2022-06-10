@@ -3,10 +3,14 @@ title: Kapitola třicátá pátá
 contentType: prose
 ---
 
+<section>
+
 _Obsahuje neuspokojivý výsledek Oliverova dobrodružství  
 a ne zcela bezvýznamnou rozmluvu Harryho Maylieho s Rózou_
 
-  
+</section>
+
+<section>
 
 Když se obyvatelé domu, přivolaní Oliverovým voláním, seběhli na místo, odkud se křik ozýval, zastihli hocha, celého bledého a rozčileného, kterak ukazuje do luk za domem a stěží ze sebe vůbec dokáže srozumitelně vyrážet slovo: „Žid! Žid!“
 
@@ -123,3 +127,5 @@ Mezitímco pronášela toto doznání, dotírala Róze na mysl záplava živých
 „Tak budiž,“ přisvědčila Róza. „Je to jen o jednu novou bolest víc, ale do té doby snad budu s to, abych ji snesla líp.“
 
 A opět mu podávala ruku. Ale mladý muž si strhl dívku na prsa, a když na její krásné čelo vtiskl jediný polibek, kvapně odešel z pokoje.
+
+</section>

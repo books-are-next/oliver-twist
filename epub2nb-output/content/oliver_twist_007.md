@@ -3,6 +3,8 @@ title: Osoby
 contentType: prose
 ---
 
+<section>
+
 _Barney_ – zlotřilý mladý žid
 
 _Čódl Bates_ – zloděj, jeden z Faginových učedníků
@@ -88,3 +90,5 @@ _Paní Sowerberryová_ – zakyslá semetrika, choť pana Sowerberryho
 * * *
 
 [1](./resources/undefined) Sluha. _Pozn. red._
+
+</section>

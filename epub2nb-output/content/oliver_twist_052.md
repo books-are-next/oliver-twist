@@ -3,9 +3,13 @@ title: Kapitola čtyřicátá pátá
 contentType: prose
 ---
 
+<section>
+
 _Fagin pověří Noema Claypola tajným posláním_
 
-  
+</section>
+
+<section>
 
 Druhý den ráno byl stařík brzo na nohou a netrpělivě čekal, až se objeví nový kumpán, a ten se po otálení, které se zdálo nekonečné, posléze také ukázal a s dravou chutí se vrhl na snídani.
 
@@ -98,3 +102,5 @@ Noe si vyměnil pohled s Faginem a hnal se ven.
 „Doleva,“ huhňavě zašeptal mladík, „dejte se vlevo a držte se na druhý straně.“
 
 Noe poslechl a ve světle luceren zahlédl postavu odcházející dívky už pěkný kousek před sebou. Přiblížil se k ní pouze na tolik, na kolik pokládal za opatrné, a držel se na protější straně ulice, aby mohl pozorovat její počínání. Dvakrát třikrát se nervózně ohlédla a jednou se dokonce zastavila a nechala přejít dva muže, kteří jí šli těsně v patách. Zdálo se, že s přibývající vzdáleností jí přibývá i odvahy a že jde krokem pořád pevnějším a ráznějším. Špeh udržoval stále stejnou vzdálenost mezi ní a sebou a sledoval ji, oči z ní nespustil.
+
+</section>

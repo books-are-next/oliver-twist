@@ -3,10 +3,14 @@ title: Kapitola patnáctá
 contentType: prose
 ---
 
+<section>
+
 _Ukazuje, v jak velké lásce měli Olivera Twista šprýmovný starý žid  
 a slečna Nancy_
 
-  
+</section>
+
+<section>
 
 V šerém lokále sprosté hospody v nejšpinavější končině Little Safron Hillu, v tmavé a ponuré špeluňce, kde v zimě po celý den syčivě plápolal plynový hořák a kam v létě nezabloudil jediný sluneční paprsek, seděl v zadumání nad cínovým korbílkem a malou sklenicí, silně prosycenou pachem kořalky, muž v manšestrovém kabátě, drapových podkolenicích, šněrovacích botách a punčochách, v němž by se žádný policejní agent ani v kalném světle nebyl rozpakoval poznat pana Williama Sikese. U nohou mu seděl bělosrstý, rudooký pes, který se zabýval tím, že střídavě buďto mžoural oběma očima najednou na pána, nebo si olizoval velkou čerstvou ránu po jedné straně čenichu, podle všeho zdání následek nějakého nedávného konfliktu.
 
@@ -130,10 +134,14 @@ Jedinou odpovědí na jeho křik byla hlasitá litanie nářků mladé ženy, kt
 
 Zesláblé nedávnou nemocí, omámené ranami a nenadálostí přepadení, vyděšené zuřivým vrčením psa a mužovou surovostí, zdrcené přesvědčením diváků, že je opravdu takový otrlý mladý ničema, jak ho ti dva líčí: co mohlo samojediné ubohé dítě dělat? Snesla se už tma; byla to bídná končina; nikde nablízku pomoc; veškerý odpor byl marný. Ve zlomku vteřiny ho zatáhli do bludiště tmavých úzkých uliček a hnali ho kupředu krokem tak rychlým, že ojedinělé výkřiky, které se pořídku odvážil vyrazit, byly při tom tempu nesrozumitelné. Ostatně na tom málo záleželo, jsou-li srozumitelné nebo ne, neboť nikde nebylo živé duše, která by jich dbala, i kdyby bývaly sebezřetelnější.
 
-  
+</section>
+
+<section>
 
 Rozžíhaly se plynové lucerny; paní Bedwinová úzkostlivě čekala v otevřených dveřích; služka se běžela dvacetkrát podívat na konec ulice, není-li někde stopy po Oliverovi a – oba staří páni dosud vytrvale seděli v temném obývacím pokoji s hodinkami mezi sebou.
 
 * * *
 
 [18](./resources/undefined) _Šáb, šábnout, šábovat_ – díl, rozdělit, dělit (zvláště zisk, výdělek, kořist). (Ze staršího argotu.) _Pozn. překl._
+
+</section>

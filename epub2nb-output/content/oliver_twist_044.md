@@ -3,10 +3,14 @@ title: 'Kapitola třicátá sedmá '
 contentType: prose
 ---
 
+<section>
+
 _V níž čtenář může pozorovat nesoulad,  
 nikoli neobvyklý u manželských dvojic_
 
-  
+</section>
+
+<section>
 
 Pan Bumble seděl v špitální hovorně s očima zasmušile upřenýma na nevlídný krb, z něhož nevycházel žádný jasnější svit (poněvadž bylo léto) než odlesk hrstky nedomrlých slunečních paprsků, které odrážel jeho studený a lesklý povrch. Od stropu se houpala mucholapka v podobě strakaté papírové klícky, k níž v trudném zamyšlení občas zdvihl oči, a jakmile zahlédl neprozřetelný hmyz, obletující tu vábnou léčku, vždycky se panu Bumblovi vydral z prsou hluboký vzdech a zároveň mu tvář obestřel stín ještě trudnější. Pan Bumble rozjímal; dost možná, že mu ten hmyz přiváděl na mysl nějakou trpkou událost z vlastní minulosti.
 
@@ -209,3 +213,5 @@ Když kolaturní hodnostář pohlédl na adresu, spatřil, že je ne­úplná, c
 [30](./resources/undefined) Nepatrnost. Pozn. red.
 
 [31](./resources/undefined) Porodní asistentky. Pozn. red.
+
+</section>

@@ -3,11 +3,15 @@ title: Kapitola třicátá čtvrtá
 contentType: prose
 ---
 
+<section>
+
 _Obsahuje několik úvodních dat o mladém pánovi,  
 který nyní vstoupí na scénu, jakož i novou dobrodružnou příhodu,  
 která potkala Olivera_
 
-  
+</section>
+
+<section>
 
 Bylo to štěstí téměř příliš velké, aby se dalo unést. Oliver byl tou neočekávanou zvěstí jako omráčený a omámený; nemohl ani plakat, ani mluvit, ani sedět. Stěží dovedl vůbec pochopit něco z toho, co se odehrálo, dokud po dlouhé bezcílné procházce v tichém podvečerním vzduchu nepřinesl úlevu prudký výbuch pláče; teprve ten jako by ho byl rázem vyburcoval k plnému uvědomění radostné změny, která se udála, i takřka nesnesitelného břemene úzkosti, které mu sňala ze srdce.
 
@@ -150,3 +154,5 @@ Zdálo se, že muž ta slova pronáší s tak smrtelnou nenávistí, že se Oli
 Dobrý bože! Co to bylo? Co mu to jen vehnalo všechnu rozbouřenou krev k srdci a oloupilo ho o hlas i veškerou schopnost pohybu? Tam – tam – blízko před ním – u okna – tak blizoučko, že by na něj byl málem dosáhl, než uskočil – s očima upřenýma do pokojíčka, až se srazily se zrakem jeho – stál starý žid! A vedle něho, sinavá vztekem nebo strachem, či obojím, byla zrůzněná tvář téhož muže, který se na něho osopil v průjezdu zájezdní hospody.
 
 Byla to jen vteřinka, letmý pohled, pouhý záblesk před očima a v mžiku byli oba pryč. Ale poznali ho a on poznal je – a jejich pohled se mu vryl tak pevně do paměti, jako by ho byl od samého narození měl před očima hluboce vtesaný do kamene. Chviličku stál jako přikovaný, potom vyskočil oknem na zahradu a volal hlasitě o pomoc.
+
+</section>

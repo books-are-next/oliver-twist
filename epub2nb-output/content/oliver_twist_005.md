@@ -3,7 +3,7 @@ title: Předmluva
 contentType: prose
 ---
 
-  
+<section>
 
 Po jeden čas se považovalo za velmi hrubou a pohoršlivou okolnost, že jsem některé postavy na těchto stránkách vybral z nejzločinnějších a nejzvrhlejších vrstev londýnského obyvatelstva.
 
@@ -26,3 +26,5 @@ Nemá smysl diskutovat, zdají-li se chování a charakter toho děvčete přir
 V roce jeden tisíc osm set padesát vzbudil jeden radní v Londýně úžas veřejným prohlášením, že Jakubský ostrov neexistuje a vůbec nikdy neexistoval. Avšak Jakubský ostrov existuje dál (dosud jako vpravdě zlopověstný okrsek) i v roce jeden tisíc osm set šedesát sedm, ačkoli zatím doznal zlepšení a mnoha změn.
 
 _Charles Dickens_
+
+</section>

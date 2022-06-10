@@ -3,10 +3,14 @@ title: Kapitola dvacátá čtvrtá
 contentType: prose
 ---
 
+<section>
+
 _Probírá téma velmi ubohé. Je však krátká  
 a třeba se ukáže pro naše vyprávění důležitá_
 
-  
+</section>
+
+<section>
 
 Stařena, která porušila klidnou pohodu v pokojíku správcové, rozhodně nebyla nevhodnou poslicí smrti. Tělo měla shrbené stářím, údy se jí třásly ochrnutím, tvář, zkřivená v žmoulavý škleb, se podobala spíš grotesknímu výplodu nějaké ztřeštěné tužky než dílu z ruky Přírody.
 
@@ -119,3 +123,5 @@ Dychtivě se skláněla nad ženou, aby pochytila její odpověď; ale ihned bez
 „A nakonec dohromady nic neřekla,“ opáčila správcová a lhostejně odcházela.
 
 Obě staré báby, podle všeho zdání tuze horlivě zabrané do příprav na svou strašlivou povinnost, než aby na to něco odpověděly, zůstaly samy s mrtvolou, kolem níž se ochomýtaly.
+
+</section>

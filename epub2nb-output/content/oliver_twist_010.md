@@ -3,10 +3,14 @@ title: Kapitola třetí
 contentType: prose
 ---
 
+<section>
+
 _Vypravuje, jak Oliver Twist měl velice namále a byl by dostal místo,  
 které by rozhodně nebývalo sinekurou[6](./resources/undefined)_
 
-  
+</section>
+
+<section>
 
 Celý týden po spáchání onoho bohaprázdného a rouhavého deliktu, že žádal o přídavek, zůstal Oliver v přísné samovazbě v tmavé a pusté komoře, do níž ho ve své moudrosti a milosti dal výbor uvrhnout. Na první pohled se nezdá nerozumné předpokládat, že kdyby byl choval náležitý pocit úcty k předpovědi pána v bílé vestě, byl by jednou provždy založil věštecký věhlas onoho mudrce tím, že by byl jeden cíp kapesníku uvázal na skobu ve zdi a na druhý by byl zavěsil sebe. Uskutečnění tohoto činu však stála v cestě jedna překážka, totiž fakt, že kapesníky jakožto předmět nesporně přepychový byly z výslovného rozkazu výboru shromážděného v radě, usnesením slavnostně vydaným a potvrzeným vlastnoručními podpisy i pečetí, pro všechny příští časy a věky nosu obecních chudých odepřeny. Ještě závažnější překážkou pak bylo Oliverovo mládí a dětinskost. Celý den jen usedavě plakal, a když nadešla dlouhá, truchlivá noc, zakryl si malýma ručkama oči, aby neviděl tmu, schoulil se do koutka a snažil se spát; ale co chvíli se s úlekem probouzel a celý roztřesený se tulil těsněji a těsněji ke zdi, jako by mu její povrch i přes svou studenost a tvrdost byl v temnotě a osamělosti, jež ho obklopovaly, jistou záštitou.
 
@@ -159,3 +163,5 @@ Nazítří ráno bylo veřejnosti znovu oznámeno, že Oliver Twist je opět „
 * * *
 
 [6](./resources/undefined) Výnosné, snadné zaměstnání. Pozn. red.
+
+</section>

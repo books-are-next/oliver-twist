@@ -3,9 +3,13 @@ title: Kapitola dvacátá osmá
 contentType: prose
 ---
 
+<section>
+
 _Zabývá se pátráním po Oliverovi a pokračuje v líčení jeho příhod_
 
-  
+</section>
+
+<section>
 
 „Aby vám vlci chřtán rozsápali!“ cedil Sikes mezi zuby, až mu skřípaly. „Škoda že nejsem někde mezi váma, to byste teprv skučeli a chroptěli!“
 
@@ -184,3 +188,5 @@ Krokem stejně tichým a mírným jako její hlas dívka křepce odběhla. V k
 „Teď ne, ani za nic na světě,“ odpověděla mladá dáma. „Ubožák! Prosím vás, Gilesi, jednejte s ním šetrně, mně k vůli!“
 
 Starý služebník zvedl k dívce, když se obracela k odchodu, oči tak plné pýchy a obdivu, jako by to bylo jeho vlastní dítě. Potom se sehnul k Oliverovi a pomohl ho odnést nahoru s péčí a starostlivostí téměř ženskou.
+
+</section>

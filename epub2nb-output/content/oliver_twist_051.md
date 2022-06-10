@@ -3,10 +3,14 @@ title: 'Kapitola čtyřicátá čtvrtá '
 contentType: prose
 ---
 
+<section>
+
 _Nadchází čas, kdy Nancy má dostát slibu danému Róze Maylieové,  
 ale nezdaří se jí to_
 
-  
+</section>
+
+<section>
 
 Přes sebevětší zběhlost ve všemožných praktikách lsti a přetvářky nemohla milá Nancy zcela skrýt účinek, jakým na její mysl působilo vědomí kroku, který učinila. Měla na paměti, že ji jak prohnaný žid, tak i surový Sikes běžně zasvěcují do plánů, které před všemi ostatními jinak pečlivě tají, v plné důvěře, že je naprosto spolehlivá a nezavdává nejmenší důvod k podezření. Ale přesto, jak ničemné to byly plány, jak bezohlední byli jejich původci, a jak trpké chovala city k židovi, který ji krok za krokem zaváděl stále hlouběji a hlouběji do propasti zločinu a bídy, odkud nebylo vyváznutí, mívala někdy chvíle, kdy i vůči němu pociťovala jisté slitovné výčitky, aby ho snad její odhalení neuvrhlo do železných kleští, kterým již tak dlouho uniká, a aby nakonec nepadl – jakkoli štědře si takový osud zaslouží – právě její rukou.
 
@@ -143,3 +147,5 @@ Takové mozky vynalézavostí jen srší. Co kdyby z ní ani nemámil přímé 
 „To jistě,“ řekl si Fagin téměř nahlas. „Potom se mi neodváží odmítnout. Za nic na světě, za nic na světě! Už to je hotové. Všechny prostředky mám po ruce a hned je taky nasadím. Já tě ještě dostanu!“
 
 Zlověstně se ohlédl a zahrozil pěstí dozadu k místu, kde zanechal zlosyna smělejšího, a mezitímco šel svou cestou dál, hrabal se kostnatýma rukama ve faldech svého hadrnického hábitu a pevně žmoulal v hrsti látku, jako by to byl nenáviděný nepřítel, kterého každým stiskem prstů drtí.
+
+</section>

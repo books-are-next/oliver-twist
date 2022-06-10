@@ -3,11 +3,15 @@ title: Kapitola třináctá
 contentType: prose
 ---
 
+<section>
+
 _Inteligentnímu čtenáři se představuje několik nových známých  
 a v souvislosti s nimi se vyprávějí rozličné zajímavosti,  
 které mají vztah k tomuto příběhu_
 
-  
+</section>
+
+<section>
 
 „Kde je Oliver?“ vyhrkl žid a se zlověstným výrazem se zdvihl. „Kde je ten hoch?“
 
@@ -182,3 +186,5 @@ Výrostek v odpověď chápavě zabrumlal a rozběhl se ze schodů za svými d
 [14](./resources/undefined) Natáčky na vlasy. _Pozn. red._
 
 [15](./resources/undefined) Pokoj, lokál, úkryt. (Ze staršího argotu.) _Pozn. překl._
+
+</section>

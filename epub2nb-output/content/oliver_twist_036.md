@@ -3,10 +3,14 @@ title: Kapitola dvacátá devátá
 contentType: prose
 ---
 
+<section>
+
 _Obsahuje první uvedení mezi obyvatele domu,  
 do něhož se Oliver uchýlil_
 
-  
+</section>
+
+<section>
 
 V hezkém pokoji – hezkém, ač jeho zařízení dýchalo spíš starosvětským pohodlím než novodobou elegancí – seděly dvě dámy u stolu, bohatě prostřeného k snídani. Pan Giles, oblečený s úzkostlivou péčí od hlavy k patě v černém, jim přisluhoval. Zaujal stanoviště asi na půl cestě mezi příborníkem a jídelním stolem a s tělem vypjatým do plné výše, s hlavou pohozenou dozadu a docela malilinko přikloněnou ke straně, s levou nohou kousek vykročenou a s pravou rukou zasunutou za vestu, zatímco v levičce, která mu visela volně po boku, držel tác, vypadal jako člověk prostoupený velice příjemným vědomím vlastních předností a důležitosti.
 
@@ -81,3 +85,5 @@ Skutečnost byla taková, že se pan Giles nemohl zpočátku odhodlat k otevře
 „Kdyby to bylo nutné,“ odpověděla stará dáma, „tak jistě ne.“
 
 „Pak tedy myslím, že to nutné je,“ pravil doktor. „V každém případě určitě vím, že kdybyste to odložila, hluboce byste potom litovala, že jste to neudělala hned teď. Je úplně klidný a vede se mu dobře. Dovolte – smím prosit, slečno Rózo? Nemusíte mít ani nejmenší strach, za to vám ručím svou ctí!“
+
+</section>
