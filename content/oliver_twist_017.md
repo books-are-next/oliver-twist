@@ -3,11 +3,15 @@ title: Kapitola desátá
 contentType: prose
 ---
 
+<section>
+
 _Oliver lépe pozná, co jsou jeho noví druhové zač,  
 a získá draze zaplacenou zkušenost.  
 Krátká, ale velmi důležitá kapitola našeho příběhu_
 
-  
+</section>
+
+<section>
 
 Mnoho dní zůstal Oliver v židově světnici, pilně páral monogramy z kapesníků (jichž chlapci přinášeli domů velký počet) a občas se účastnil hry již dříve popsané, kterou žid hrával s oběma hochy pravidelně každé ráno. Nakonec se mu začalo stýskat po čerstvém vzduchu, a tu pak mnohou úpěnlivou prosbou žadonil na starém pánovi, aby mu dovolil jít s oběma kamarády ven na práci.
 
@@ -74,3 +78,5 @@ Habán hodil rukou ke klobouku a zazubil se v očekávání, že za svou náma
 „Ale kde, já mu neublížím,“ odpověděl strážník a na důkaz svých slov div že z Olivera nestrhl kabátek. „Tak alou, takové jako ty já přece znám, na mě si nepřijdeš. Tak zvedneš se na nohy nebo ne, ty kvítko lotrovský?“
 
 Oliver, který se stěží vůbec udržel na nohou, se s námahou vztyčil a už ho strážník rychlým krokem vlekl za límec ulicemi. Starý pán šel vedle strážníka s nimi a ta část davu, jíž se to podařilo dokázat, je o kousek předběhla a co chvíli se otáčela a zevlovala na Olivera. Kluci škodolibě výskali a tak se bral průvod kupředu.
+
+</section>

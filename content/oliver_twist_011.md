@@ -3,10 +3,14 @@ title: Kapitola čtvrtá
 contentType: prose
 ---
 
+<section>
+
 _Oliverovi se nabízí jiné místo,  
 a tak učiní první krok do občanského života_
 
-  
+</section>
+
+<section>
 
 Vznešené rodiny, nemohou-li mladému muži, který dospívá, zajistit výhodné postavení ani stávajícím vlastnictvím, ani majetkovým nápadem zpětným, budoucím nebo očekávaným, mívají velmi zhusta ve zvyku poslat ho na moře. Řídě se příkladem tak moudrým a prospěšným, vstoupil výbor v společnou úradu, nebylo-li by výhodné Olivera Twista vypravit na nějakou malou obchodní loď, plující do některého pěkného nezdravého přístavu. Tento plán se nabízel jako to nejlepší, co lze s hochem vůbec počít, neboť bylo pravděpodobné, že ho pán lodi jednoho krásného dne v laškovné náladě po obědě umrská nebo mu železnou tyčí rozrazí lebku – kterážto kratochvíle, jak je všeobecně známo, je u pánů onoho druhu zábavou velice oblíbenou a běžnou. Čím déle pohlížel výbor na příklad z tohoto hlediska, tím všestrannější se jevily výhody toho kroku, a tak dospěl nakonec k závěru, že jediná cesta, jak se o Olivera účinně postarat, je poslat ho bez meškání na moře.
 
@@ -137,3 +141,5 @@ Oliver již déle neotálel a povolně následoval svou novou paní.
 * * *
 
 [7](./resources/undefined) S klopami. _Pozn. red._
+
+</section>

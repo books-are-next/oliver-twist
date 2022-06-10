@@ -3,10 +3,14 @@ title: Kapitola sedmnáctá
 contentType: prose
 ---
 
+<section>
+
 _Jelikož Oliverova sudba zůstává nadále nepříznivá,  
 přivádí do Londýna velkou osobnost, která ublíží jeho pověsti_
 
-  
+</section>
+
+<section>
 
 Ve všech řádných krvavých melodramatech je zvykem na jevišti uvádět výstupy tragické a komické v tak pravidelném prostřídání, jako jsou červené a bílé proužky na řezu správně prorostlého uzeného bůčku. Hrdina klesne na své slaměné lože, zdrcen tíhou okovů a pohrom, a hned v dalším výstupu jeho věrný leč nic netušící panoš oblaží posluchače komickou písní. S bušícím srdcem zříme hrdinku v drápech pyšného a nelítostného barona, kterak ve chvíli, kdy je v nebezpečí její ctnost stejně jako život, směle tasí dýku, aby zachránila prvé za cenu druhého – a právě když je naše napětí vybičováno do nejvyšší míry, zazní píšťala a děj nás okamžitě přenese do hradní hodovní síně, kde stříbrovlasý hradní hofmistr pěje směšný chór s ještě směšnějším sborem poddaných, kteří jsou doma na všemožných místech, kostelní kryptou počínaje a palácem konče, v hloučcích se volně potloukají kolem a nepřetržitě si bujně trylkují.
 
@@ -122,13 +126,17 @@ Když se napřed obou zavilých zlovolníků pro tu noc zbavil, usadil se pan Bu
 
 Hned první odstavec, na němž utkvěly páně Bumblovy oči, bylo toto oznámení:
 
-  
+</section>
+
+<section>
 
 _PĚT LIBER ODMĚNY_
 
 _Ve čtvrtek večer utekl nebo byl vylákán ze svého domova v Pentonvillu malý hoch jménem Oliver Twist a je od té doby nezvěstný. Shora vypsaná odměna bude vyplacena komukoli, kdo podepsanému podá informaci, která povede k vypátrání řečeného Olivera Twista, anebo přispěje k osvětlení hochovy minulosti, o niž se podepsaný z mnoha důvodů živě zajímá._
 
-  
+</section>
+
+<section>
 
 A potom následoval podrobný popis Oliverova oblečení, jeho osoby, příchodu i zmizení, a nakonec jméno i adresa pana Brownlowa v plném znění.
 
@@ -209,3 +217,5 @@ To byla ostrá ťafka panu Grimwigovi, který byl starý mládenec. Protože vš
 Toho večera byla v domě pana Brownlowa smutná srdce.
 
 A srdce Oliverovo? To se bolem svíralo, když pomyslil na své hodné, vlídné přátele: ještě dobře pro něho, že nemohl vědět, co o něm slyšeli, jinak by mu bylo rovnou puklo.
+
+</section>

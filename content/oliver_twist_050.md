@@ -3,9 +3,13 @@ title: Kapitola čtyřicátá třetí
 contentType: prose
 ---
 
+<section>
+
 _V níž se ukáže, jak se Ferina Lišák dostal do maléru_
 
-  
+</section>
+
+<section>
 
 „A tak teda ten váš dobrej přítel, to jste byl vy sám, co?“ zeptal se pan Claypole, alias Bolter, když se na základě dohody, kterou uzavřel s Faginem, nazítří odebral do jeho domu. „Sákryš, hnedka jsem si to včera myslel!“
 
@@ -218,3 +222,5 @@ Oba potom pospíchali společně zpátky, aby panu Faginovi přinesli potěšuj�
 [38](./resources/undefined) Vězení. (Ze staršího argotu.) _Pozn. překl._
 
 [39](./resources/undefined) Stvrzenka o zaplacení. _Pozn. red._
+
+</section>

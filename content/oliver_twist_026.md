@@ -3,9 +3,13 @@ title: Kapitola devatenáctá
 contentType: prose
 ---
 
+<section>
+
 _V níž se přetřásá i přijme významný plán_
 
-  
+</section>
+
+<section>
 
 Byla nevlídná, sychravá, větrná noc, když žid pevně upnul své scvrklé tělo do zimního pláště, vyhrnul si límec přes uši, až mu úplně zahalil spodní část obličeje, a vyklouzl ze svého brlohu. Na prahu počkal, než se dveře za ním zavřou na zámek i na řetěz, a když si poslechl, jak hoši všechno zajišťují a jak se pak jejich kroky vzdalují a doznívají, odploužil se ulicí, co mohl nejrychleji.
 
@@ -220,3 +224,5 @@ Takovými příjemnými úvahami si pan Fagin krátil čas, zatímco se bahnem a
 Hoch ležel v hlubokém spánku na hrubém loži na podlaze, strachy a smutkem a z dusnosti svého vězení tak bledý, že vypadal jako smrt; nikoli jako smrt, jako se jeví v rubáši a rakvi, nýbrž v podobě, jakou na sebe bere, když život zrovna prchl – když mladá a něžná duše právě před okamžikem ulétla do nebe a hrubý vzduch světa ještě neměl kdy dýchnout na měnící se schránku, až dosud jí oživovanou.
 
 „Teď ne,“ pravil žid a tiše se odvrátil k odchodu. „Až zejtra. Až zejtra.“
+
+</section>

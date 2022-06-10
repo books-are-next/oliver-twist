@@ -3,9 +3,13 @@ title: Kapitola dvacátá pátá
 contentType: prose
 ---
 
+<section>
+
 _V níž se nit vyprávění vrací k panu Faginovi a spol._
 
-  
+</section>
+
+<section>
 
 Mezitímco se ve venkovském špitále odehrávaly tyto události, seděl pan Fagin ve svém starém doupěti – v témž, z něhož dívka odvedla Olivera – u líného, čadivého ohně a dumal. Na koleně držel měch, kterým se patrně pokoušel povzbudit plamen k čilejšímu životu; zabral se však do hlubokého přemýšlení a s rukama sepjatýma na měchu a s bradou podepřenou o palce upíral oči nepřítomně na re­zavé příčky krbové mřížky.
 
@@ -120,3 +124,5 @@ Pan Crackit se odmlčel, aby si lokl grogu, a prohlásil, že ta jalovcová je 
 „Bill ho měl na hřbetě a letěl jako vítr. Zastavili jsme se, že ho ponesem spolu. Hlava mu visela a byl celej studenej. Ale měli jsme je už skoro v patách – a tak každej sám pro sebe a každej pryč vod šibenice! Rozdělili jsme se a kloučka jsme nechali ležet ve škarpě. Snad živýho, snad mrtvýho. To je všecko, co vo něm vím.“
 
 Žid nečekal, až uslyší ještě něco víc, nýbrž s hlasitým vřísknutím si vjel rukama do vlasů a vyřítil se ze světnice a pak z domu.
+
+</section>

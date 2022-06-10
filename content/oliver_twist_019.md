@@ -3,11 +3,15 @@ title: Kapitola dvanáctá
 contentType: prose
 ---
 
+<section>
+
 _V níž se Oliverovi dostane lepší péče, než jaké se těšil kdy předtím,  
 a v níž se vyprávění vrací k šprýmovnému starému pánovi  
 a jeho mladistvým druhům_
 
-  
+</section>
+
+<section>
 
 Kočár hrčel a rachotil téměř po téže půdě, po které šlapal Oliver, když v Lišákově společnosti prvně vkročil do Londýna; dojel touž cestou až k Andělu v Islingtonu, kde pak zabočil jiným směrem, až konečně zastavil před hezkým domem v tiché, stinné ulici blízko Pentonvillu. Tam bez minutky meškání zchystali postel a pod dohledem pana Brownlowa do ní pečlivě a pohodlně uložili jeho mladého chráněnce; a tam ho pak také ošetřovali s laskavostí a péčí, která neznala mezí.
 
@@ -172,3 +176,5 @@ Několik málo minut po skončení tohoto rozhovoru vytrhl šprýmovného staré
 „Co to, jak to přijde?“ zahuhlal žid a změnil barvu. „Jdou jenom dva? Kdepak mají třetího? Není přece možná, aby je potkal nějaký malér. Pst, pozor!“
 
 Kroky přicházely stále blíž, až konečně došly na chodbičku. Dveře se pomalu otevřely – a vstoupili Lišák a Čódl Bates a zavřeli za sebou.
+
+</section>

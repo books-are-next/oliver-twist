@@ -3,9 +3,13 @@ title: Kapitola čtyřicátá
 contentType: prose
 ---
 
+<section>
+
 _Neobyčejný rozhovor, který je dodatkem kapitoly předešlé_
 
-  
+</section>
+
+<section>
 
 Třebaže dívka celý život prožila na ulicích a v nejohavnějších hampejzech a brlozích Londýna, přesto v ní něco z její původní ženské přirozenosti dosud zbývalo, a proto když zaslechla, jak se ke dveřím ležícím proti těm, kterými sama vstoupila, blíží lehké kroky, a představila si, jaký nebetyčný protiklad se v příštím okamžiku v pokojíku spolu střetne, dolehlo na ni vědomí vlastní propastné hanby takovou tíhou, že se až přikrčila – jako by pro ni přítomnost té, s níž si přála promluvit, byla téměř neúnosná.
 
@@ -122,3 +126,5 @@ Laskavý tón této odpovědi, líbezný hlas, vlídné chování bez sebeslabš
 „Nejlepší službu byste mi prokázala, paní,“ odpovědělo děvče a zalomilo rukama, „kdybyste mi na místě ukrátila život – protože dnes na mě při pomyšlení, co jsem, padal těžší zármutek, než jaký jsem pocítila kdy dřív, a už to by byla krása, neumřít v tom pekle, co v něm pořád žiju. Bůh vám požehnej, laskavá paní, a kéž na vaši hlavu sešle tolik štěstí, kolik jsem já na svou navršila hanby!“
 
 S těmi slovy a s hlasitým vzlykáním se nešťastnice obrátila a odešla, kdežto Róza Maylieová, touto neobyčejnou rozmluvou, která se podobala spíš prchavému snu než skutečné události, nadobro přemožená, klesla na židli a snažila se soustředit roztěkané myšlenky.
+
+</section>

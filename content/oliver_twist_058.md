@@ -3,9 +3,13 @@ title: 'Kapitola padesátá prvá '
 contentType: prose
 ---
 
+<section>
+
 _Přináší vysvětlení nejednoho tajemství a obsahuje nabídnutí k sňatku beze slova o věnu nebo jehelném_
 
-  
+</section>
+
+<section>
 
 Události vyprávěné v předešlé kapitole byly teprve dva dny staré, když Oliver seděl ve tři hodiny odpoledne v cestovním kočáře, rachotivě uhánějícím k jeho rodnému městečku. Paní Maylieová a Róza s paní Bedwinovou a s dobrákem doktorem jeli s ním, kdežto pan Brownlow cestoval v doprovodu jedné další osoby, jejíž jméno neuvedl, v poštovním kočáře za nimi.
 
@@ -201,7 +205,9 @@ Slzy, které nyní kanuly, a přerývaná slova, která si oba sirotci v dlouh
 
 „Jen tohle – že když jsem od tebe posledně odcházel, odcházel jsem s pevným odhodláním srovnat se zemí všechny domnělé přehrady mezi tebou a mnou; s rozhodnutím, že když nemůže můj svět být světem tvým, udělám si z tvého světa svůj; že žádná rodová pýcha nesmí nad tebou ohrnovat ret, nebo jinak že jí ukážu záda. To jsem také udělal. Ti, kdo se kvůli tomu ode mne odtáhli, odtáhli se i od tebe a dokázali, že máš tak dalece pravdu. Ti mocní ochránci, ti vlivní a vysoce postavení příbuzní, kteří se kdysi na mne usmívali, si mě teď měří chladně. Ale v nejžírnějším kraji Anglie se usmívají široké lány a kynou košaté stromy a u jednoho vesnického kostela – mého, Rózo, mého, slyšíš! – stojí prosté venkovské stavení, na které mě můžeš udělat pyšnějším, než kdyby se byly tisícinásobně splnily všechny ty naděje, kterých jsem se vzdal. To je tedy moje dnešní důstojenství a postavení – a zde ti je skládám k nohám!“
 
-  
+</section>
+
+<section>
 
 „Je to utrpení, čekat s večeří na milence,“ povzdychl si pan Grimwig, když se probudil a stáhl si z obličeje šátek, přehozený přes hlavu.
 
@@ -216,3 +222,5 @@ Pan Grimwig neztratil vteřinku, aby toto oznámení uvedl ve skutek, a ihned u
 Náš svět je plný zklamání; často maří naděje, které hýčkáme nejvíc, a naděje, které jsou našemu založení nejvíc ke cti.
 
 Ubohý Dick už nebyl mezi živými!
+
+</section>

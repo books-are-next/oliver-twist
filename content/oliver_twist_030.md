@@ -3,11 +3,15 @@ title: Kapitola dvacátá třetí
 contentType: prose
 ---
 
+<section>
+
 _Která obsahuje sukus příjemného rozhovoru mezi panem Bumblem  
 a jednou dámou a ukazuje, že ani serbus nemusí být po všech  
 stránkách zcela nepřístupný citům_
 
-  
+</section>
+
+<section>
 
 Noc byla ledově studená. Sníh ležel na zemi zmrzlý v tvrdou tlustou kůru, takže rezavý vítr, který venku skučel, mohl navát jedině kupy závějí, které se usadily v odlehlých uličkách a koutech, a jako by si svůj hněv tím vztekleji vybíjel na každé oběti, kde prostě jakou našel, divoce je metal v kotoučích do výše, roztáčel je do tisícera mlžných vírů a rozprašoval je do vzduchu. Ponurá, černá, třeskutě mrazivá, byla to noc pro dobře bydlící a dobře živené, aby se sesedli kolem veselého ohně a děkovali Bohu, že jsou doma – a pro hladomřivé ubožáky bez přístřeší, aby si lehli a umřeli. V takový čas zavírá na našich pustých ulicích oči mnoho hlady vysílených vyvrženců, kteří je, ať už spáchali jakékoli zločiny, stěží mohou otevřít ve světě krutějším.
 
@@ -126,3 +130,5 @@ Chování pana Bumbla, jakmile zůstal v pokoji o samotě, bylo poněkud nevys
 * * *
 
 [23](./resources/undefined) Není v pořádku. _Pozn. red._
+
+</section>

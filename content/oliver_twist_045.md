@@ -3,10 +3,14 @@ title: Kapitola třicátá osmá
 contentType: prose
 ---
 
+<section>
+
 _Obsahuje vylíčení všeho, co se zběhlo mezi manžely Bumblovými  
 a panem Monksem při jejich noční schůzce_
 
-  
+</section>
+
+<section>
 
 Byl mrtvý, dusný, zatažený letní večer. Mračna, která po celý den hrozila spadnout, rozlezlá v husté a líné moře par, již pouštěla první těžké kapky deště a zjevně věstila prudkou bouři, když manželé Bumblovi odbočili z hlavní ulice městečka a zaměřili kroky k roztroušené malé kolonii polorozpadlých baráčků, vzdálené přibližně asi půldruhé míle od města a postavené na nízké, nezdravé mokřině, hraničící přímo s řekou.
 
@@ -223,3 +227,5 @@ Bylo štěstí, že v tom okamžiku právě rozhovor skončil, protože jinak b
 Dolní haluznu přecházeli pomalu a obezřele, protože Monks se lekal každého stínu – a pan Bumble, který držel lucernu na stopu od země, našlapoval nejen s pozoruhodnou opatrností, ale i krokem neuvěřitelně lehkým na pána jeho postavy; a nervózně se rozhlížel po skrytých padacích dveřích. Když Monks tiše odjistil a otevřel vrátka, kterými předtím vstoupili, pokynuli si manželé se svým záhadným známým pouze mlčky hlavou a vyšli do deštivé tmy venku.
 
 Sotvaže zmizeli, zavolal Monks, který zjevně choval nepřekonatelný odpor k samotě, na hocha, schovaného někde dole. A když mu poručil, aby šel napřed a nesl světlo, vrátil se opět do místnosti, z níž právě před chviličkou odešel.
+
+</section>

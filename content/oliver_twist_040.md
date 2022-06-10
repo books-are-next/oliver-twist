@@ -3,9 +3,13 @@ title: Kapitola třicátá třetí
 contentType: prose
 ---
 
+<section>
+
 _V níž štěstí Oliverovo a jeho přátel utrpí náhlý otřes_
 
-  
+</section>
+
+<section>
 
 Jaro uběhlo jako voda a přišlo léto. Byla-li vesnice zpočátku krásná, tonula nyní v plné záři a hýřivosti své nádhery. Vysoké stromy, které v časnějších měsících vypadaly seschlé a holé, zatím vzkypěly mocným životem a zdravím, a jak rozpínaly zelenou náruč nad žíznivou zemí, měnily nechráněná a obnažená místa v lahodná zákoutí, stopená v hluboký a příjemný stín, odkud byla vyhlídka do širého kraje, zalitého sluncem, který se prostíral vůkol. Země se oděla svým nejtřpytnějším zeleným hávem a vydechovala do vzduchu své nejsytější vůně. Rok byl na vrcholu rozkvětu a síly, všechno radostně bujelo.
 
@@ -132,3 +136,5 @@ Několik hodin spolu seděli, napínali sluch a báli se promluvit slovo. Přin
 „Ne!“ zvolal doktor zaníceně. „Že je Bůh dobrotivý a milosrdný, zůstane slečna Róza naživu a bude nás všechny oblažovat ještě dlouhá léta!“
 
 Stará dáma padla na kolena a pokusila se sepnout ruce; ale síly, které ji tak dlouho vzpružovaly, prchly hned s jejím prvním díkůvzdáním k nebesům, a tak klesla do přátelské náruče, která se rozevřela, aby ji zachytila.
+
+</section>

@@ -3,9 +3,13 @@ title: Kapitola dvacátá
 contentType: prose
 ---
 
+<section>
+
 _V níž je Oliver odevzdán panu Williamu Sikesovi_
 
-  
+</section>
+
+<section>
 
 Když se Oliver ráno probudil, nemálo ho překvapilo, že vedle svého lože vidí stát nové botky s tlustou pevnou podrážkou a jeho staré boty že zmizely. Zpočátku ho tento objev těšil, neboť zadoufal, že to snad je předzvěst jeho propuštění; ale takové myšlenky se mu rychle vykouřily z hlavy; jakmile usedl se židem k snídani a ten mu tónem a způsobem, který jeho úlek ještě zvýšil, prostě oznámil, že ten večer ho odvedou do bytu Billa Sikese.
 
@@ -162,3 +166,5 @@ Oliverovi netrvalo dlouho, než skončil toaletu, a když něco málo posnídal
 Nancy se na hocha téměř nepodívala a jen mu hodila šátek, aby si ho uvázal kolem krku; Sikes mu dal velkou hrubou pelerínu, aby si ji zapnul přes ramena. V takovém vystrojení podal Oliver ruku lupiči, který prodlel jen tolik, co by mu s výhružným posunkem ukázal, že v postranní kapse pláště má stále touž bambitku, hned potom se podávané ruky pevně chytil, vyměnil si s Nancy pozdrav na rozloučenou a již hocha odváděl.
 
 Když došli ke dveřím, otočil Oliver na okamžik hlavu v naději, že zachytí dívčin pohled. Ale Nancy již opět zaujala své staré místo u krbu a seděla před ohněm úplně bez hnutí.
+
+</section>

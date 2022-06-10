@@ -3,9 +3,13 @@ title: Kapitola dvacátá druhá
 contentType: prose
 ---
 
+<section>
+
 _Vloupání_
 
-  
+</section>
+
+<section>
 
 „Hola!“ zaburácel hlučný a drsný hlas, sotva vkročili do chodby.
 
@@ -144,3 +148,5 @@ Potom se rozlehlo hlasité řinčení zvonce a do toho se mísil rachot střeln
 * * *
 
 [22](./resources/undefined) Maska, paklíče, vrtáky, zlodějská svítilna. (Ze staršího argotu.) Pozn. překl.
+
+</section>

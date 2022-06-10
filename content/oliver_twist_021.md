@@ -3,12 +3,16 @@ title: Kapitola čtrnáctá
 contentType: prose
 ---
 
+<section>
+
 _Obsahuje další podrobnosti o Oliverově pobytu  
 v domě pana Brownlowa spolu s pozoruhodnou předpovědí,  
 kterou o Oliverovi pronesl jistý pan Grimwig,  
 když hocha poslali něco obstarat_
 
-  
+</section>
+
+<section>
 
 Oliver se brzy vzpamatoval z krátké mdloby, do níž ho uvrhl náhlý výkřik pana Brownlowa, a v hovoru, který se potom rozvinul, se jak starý pán, tak i paní Bedwinová bedlivě vystříhali jakékoli zmínky o obraze, ba nestáčeli vůbec řeč ani na Oliverovu minulost nebo jeho vyhlídky do budoucnosti, nýbrž omezovali se na takové náměty, které by ho mohly povyrazit, ale nerozrušily by ho. Byl dosud tuze slabý, aby mohl k snídani vstát, ale když ho druhý den ráno snesli do pokoje hospodyně, prvním jeho činem bylo, že vrhl dychtivý pohled na stěnu v naději, že opět spatří tvář té krásné dámy. Ve svém očekávání se však zklamal, protože obraz mezitím odstranili.
 
@@ -201,3 +205,5 @@ Setmělo se již tolik, že číslice na ciferníku bylo sotva rozeznat, ale oba
 [16](./resources/undefined) Karetní hra. Pozn. red.
 
 [17](./resources/undefined) Skřipec, předchůdce dnešních brýlí. Pozn. red.
+
+</section>

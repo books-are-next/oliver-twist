@@ -3,10 +3,14 @@ title: Kapitola pátá
 contentType: prose
 ---
 
+<section>
+
 _Oliver se seznamuje s novými druhy, jde poprvé v životě na pohřeb  
 a tvoří si nepříznivý úsudek o živnosti svého pána_
 
-  
+</section>
+
+<section>
 
 Když zůstal Oliver v pohřebníkově krámě sám, postavil lampičku na truhlářskou hoblici a plaše se kolem sebe rozhlížel s pocitem uctivé bázně a hrůzy, což mnozí lidé o hodně starší než on jistě bez námahy pochopí. Nedodělaná rakev na černém podstavci, která stála uprostřed krámu, vypadala tak pochmurně a tak připomínala smrt, že kdykoli mu oči zabloudily k tomu příšernému předmětu, vždycky se zimničně roztřásl a téměř očekával, že z něho před jeho očima pomalu zvedne hlavu nějaká strašlivá postava a vyděsí ho až k šílenství. O zeď byla v pravidelném rozestupu opřena dlouhá řada jilmových prken, všech přiříznutých do stejného tvaru, a v kalném přítmí vypadala jako nahrbení duchové s rukama v kapsách u kalhot. Po zemi se válely štítky na rakve, jilmové hobliny, hřebíky s lesklými hlavičkami a ostřižky černé látky a stěnu za pultem zdobilo výrazné zpodobení dvou hlídačů mrtvol se silně naškrobeným nákrčníkem, stojících na stráži u portálu honosného obydlí, k němuž zpovzdáli přijíždí furgon[8](./resources/undefined) tažený čtyřmi bujnými vraníky. V krámě bylo dusno a horko. Vzduch se zdál zamořený pachem rakví. Kout pod pultem, kam Oliverovi hodili koudelový slamníček, vypadal jako hrob.
 
@@ -181,3 +185,5 @@ Oliver se v duchu zvědavě ptal, trvalo-li hodně dlouho, než si na to zvykl 
 * * *
 
 [8](./resources/undefined) Nákladní vůz. Pozn. red.
+
+</section>

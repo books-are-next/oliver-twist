@@ -3,9 +3,13 @@ title: Kapitola čtyřicátá šestá
 contentType: prose
 ---
 
+<section>
+
 _Nancy dodrží schůzku_
 
-  
+</section>
+
+<section>
 
 Hodiny na kostelích odzváněly tři čtvrtě na dvanáct, když se na Londýnském mostě objevily dvě postavy. Jedna, která se nesla svižným a rychlým krokem, byla postava ženy; dychtivě se kolem sebe rozhlížela, jako by pátrala po nějakém očekávaném zjevu; druhá postava patřila muži, který se ploužil v nejhlubším stínu, jaký se kde našel, a kus za ženinými zády přizpůsoboval svůj krok jejímu; zastavoval se, když se zastavila ona, a jakmile znovu vykročila, kradl se zase opatrně dál, ale nikdy se nedal v zápalu stíhání strhnout k tomu, aby rychlejší chůzí vzdálenost mezi nimi zmenšil. Takto přešli most z břehu middlesexského na surreyský, když tu se žena, zjevně výsledkem svého úzkostlivého zkoumání ostatních chodců zklamaná, otočila ke zpáteční cestě. Byl to náhlý obrat, ale přesto muže, který ji sledoval, nezastihl v okamžiku nestřeženém, neboť ihned uskočil do jednoho z výklenků, které lemují mostní pilíře, nahnul se přes balustrádu, aby svou postavu lépe schoval, a nechal ženu po protějším chodníku přejít. Když byla asi stejně daleko napřed jako předtím, nenápadně vyklouzl a opět ji sledoval. Téměř uprostřed mostu se zastavila. Muž se zastavil také.
 
@@ -190,3 +194,5 @@ Róza Maylieová ještě otálela, ale starý pán si protáhl její ruku pod pa
 Po chvíli se zvedla a nejistými a potácivými krůčky vystoupila na ulici. Užaslý špeh zůstal ještě několik minut bez hnutí na svém stanovišti, a když se potom četnými obezřelými pohledy kolem dokola přesvědčil, že je opět sám, vylezl pomaličku z úkrytu a pokradmu a ve stínu zdi se stejným způsobem, jakým sestoupil, zase vrátil na most.
 
 Jakmile se Noe Claypole doplížil až nahoru, několikrát opatrně vykoukl, aby se ujistil, jestli ho nikdo nepozoruje, a potom vyrazil jako šipka, a co mu nohy stačily, upaloval zpátky k židovu domu.
+
+</section>

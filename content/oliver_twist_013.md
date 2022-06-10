@@ -3,10 +3,14 @@ title: Kapitola šestá
 contentType: prose
 ---
 
+<section>
+
 _Oliver, vydrážděný Noemovým špičkováním, vzchopí se k činu  
 a uvede Noema v značný úžas_
 
-  
+</section>
+
+<section>
 
 Když vypršel zkušební měsíc, byl Oliver smluvně zavázán v učení. Byl právě pěkně nezdravý čas. Řečeno obchodnicky, rakve byly v kurzu – a v průběhu několika týdnů si Oliver osvojil značnou míru zkušeností. Úspěch páně Sowerberryho důmyslného nápadu předstihl i jeho nejrůžovější naděje. Ani nejstarší obyvatelé města nepamatovali dobu, kdy by byla spála zuřila v takovém rozsahu a kosila tolik dětských životů, a mnoho bylo truchlivých průvodů, v jejichž čele kráčel k nepopsatelnému obdivu a pohnutí všech matek v městě malý Oliver se smutečním fáborem, splývajícím mu z klobouku až po kolena. A poněvadž provázel svého mistra i při většině jím vypravovaných pohřbů osob dospělých, aby si osvojil ono rozvážné chování a naprostou citovou sebekázeň, jež jsou pro dokonalého pompfunébra nezbytné, měl Oliver hojně příležitostí povšimnout si skvělé odevzdanosti a statečnosti, s níž někteří duševně silní lidé snášejí svá utrpení a ztráty.
 
@@ -83,3 +87,5 @@ Noe se nezdržoval, aby něco odpověděl, nýbrž ihned vyrazil plným tempem, 
 * * *
 
 [9](./resources/undefined) Veselí, veselá zábava. Pozn. red.
+
+</section>

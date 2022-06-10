@@ -3,9 +3,13 @@ title: Kapitola padesátá třetí
 contentType: prose
 ---
 
+<section>
+
 _A zároveň poslední_
 
-  
+</section>
+
+<section>
 
 Vyprávění o osudech těch, kteří v tomto příběhu vystupovali, dospělo téměř ke konci. Ono málo, co jejich kronikáři ještě zbývá dopovědět, lze říci hrstkou prostých slov.
 
@@ -38,3 +42,5 @@ Rád bych ještě chvíli prodlel u několika z těch bytostí, mezi kterými 
 Jak pan Brownlow neustával den za dnem obohacovat mysl svého přijatého syna množstvím vědomostí a jak k němu lnul stále víc a víc, čím víc se jeho povaha vyvíjela a prozrazovala, jak slibně se ujímá sémě všeho, co v něm chce vypěstovat – jak na něm objevoval stále nové a nové rysy dávného přítele a ty v jeho vlastních prsou probouzely staré vzpomínky sice zádumčivé, ale přesto sladké a konejšivé – jak oba sirotci, těžce zkoušení protivenstvím, vždy byli toho naučení pamětlivi v milosrdenství k jiným i ve vzájemné lásce a ve vroucí vděčnosti tomu, který je chránil a zachoval – to všechno není třeba vypravovat. Již jsem řekl, že byli opravdově šťastní – a bez velké lásky a dobroty srdce a bez vděčnosti k oné bytosti, jejímž zákonem je milosrdenství a jejíž první a hlavní vlastností je dobrotivost ke všemu, co dýše, nelze štěstí dosáhnout nikdy.
 
 V oltářním výklenku starého vesnického kostelíka je zasazena bílá mramorová deska, na které je až dosud vytesáno jediné slovo: AGNES. V onom hrobě není rakve – a kéž uplyne ještě mnoho, pře­mnoho let, než nad něj přibude další jméno! Ale vracejí-li se kdy duše zemřelých na tuto zemi, aby navštívily místa posvěcená láskou těch, které znávaly za života – láskou až za hrob – jsem přesvědčen, že duch zesnulé Agnes se někdy nad tím posvátným koutkem vznáší. Jsem o tom přesvědčen přesto, že ten koutek je v kostele a ona byla slabá a chybující.
+
+</section>

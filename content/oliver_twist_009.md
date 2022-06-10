@@ -3,10 +3,14 @@ title: Kapitola druhá
 contentType: prose
 ---
 
+<section>
+
 _Pojednává o tom, jak Oliver Twist vyrůstal  
 a jakou měl výchovu a zaopatření_
 
-  
+</section>
+
+<section>
 
 Příštích osm deset měsíců byl Oliver obětí nepřetržitého a soustavného šizení a šalby. Odchovali ho na cumlu. O hladovém a zuboženém stavu osiřelého nemluvněte podala správa špitálu v patřičném čase hlášení správě obce. Správa obce se důstojně dotázala správy špitálu, není-li tou dobou „v ústavě“ ubytována nějaká chovanka, která by byla ve stavu způsobilém poskytovat Oliveru Twistovi něžnou péči a výživu, jíž mu je zapotřebí. Správa špitálu poníženě odpověděla, že není. Poté správa obce velkomyslně a lidumilně rozhodla, aby Oliver byl „dán na vychování“ do útulku, čili jinými slovy, poslán do filiálního špitálu asi tři míle vzdáleného, kde se kolem dvaceti třiceti jiných mladistvých provinilců proti chudinským zákonům, nepřetěžovaných ani přemírou potravy, ani přemírou oblečení, válelo celý den po zemi pod mateřským dozorem obstarožní matróny, která tyto hříšníky přijímala za sazbu a úhradu sedmi a půl pence za hlavičku na týden. Za sedm a půl pence se dá pořídit mnoho, rozhodně dost, aby si dítě přecpalo žaludek, až mu je špatně. Tato obstarožní pěstounka byla žena moudrá a zkušená; věděla, co dětem prospívá – a měla velmi přesný pojem o tom, co prospívá jí. Proto rezervovala větší část týdenního příspěvku pro svou vlastní kapsu a přidělovala nadějnému obecnímu dorostu dávky ještě hubenější, než jaké mu byly přiřčeny původně. Takto objevila v minimálním minimu minimum ještě minimálnější a prokázala, že je vskutku mimořádným experimentálním filozofem.
 
@@ -132,7 +136,9 @@ Prvních šest měsíců po převedení Olivera Twista se tento režim dodržova
 
 Místnost, kde hoši dostávali jíst, byla kamenná haluzna s velkým měděncem na jednom konci, a z toho kotle rozdílel správce, za tím účelem opásaný zástěrou a za asistence jedné nebo dvou špitálnic, v hodinách jídla sběračkou kaši. Této slavnostní krmě dostal každý hoch polévkový koflík a nic víc – vyjma ve dny velkých veřejných svátků, kdy kromě toho dostal ještě osminku libry chleba. Misky nebylo třeba nikdy mýt. Hoši je vždycky vydřeli lžicí, že zas jen svítily, a když je takto vyleštili (což nikdy netrvalo tuze dlouho, neboť lžíce byly bezmála stejně velké jako misky), seděli s očima přilepenýma na měděnec s výrazem tak chtivým, jako by od minuty byli hotovi spolknout nejen kotel, ale i celé jeho cihlové obezdění; přitom se neúnavně zabývali horlivým cucáním prstů ve snaze zachránit kdejakou zbloudilou kapičku kaše, která jim na ně snad náhodou stříkla. Hoši mívají obyčejně znamenitou chuť k jídlu. Oliver Twist a jeho druhové snášeli muka pomalého moření hladem tři měsíce, až konečně byli tak vyhladovělí a zdivočelí, že jeden hoch, jenž byl na svůj věk velký a podobné dietě nebýval zvyklý (neboť jeho otec míval malou veřejnou jídelnu), svým kamarádům ponuře naznačil, že nedostane-li denně jednu misku kaše navíc, má strach, aby se jedné krásné noci nesebral a nesnědl chlapce, který spí vedle něho, a to byl náhodou slabý pacholíček útlého věku. Velký hoch měl divoký, hladový pohled a chlapci mu slepě uvěřili. Konala se porada a metal se los, kdo má toho dne jít po večeři k správci a požádat o přídavek – a los padl na Olivera Twista.
 
-  
+</section>
+
+<section>
 
 Nadešel večer a hoši zaujali místa u stolu. Správce v obvyklém kuchařském přistrojení se postavil k měděnci a jeho špitálské pomocnice si stouply za něj. Každý hoch dostal svou porci kaše a dlouhou modlitbou se štědře děkovalo za skoupý božídárek. Kaše zmizela; chlapci si začali šuškat a mrkali na Olivera, jeho přímí sousedé ho šťouchali loktem. Ačkoli ještě takové dítě, byl hlady zoufalý a z bídy všeho schopen. Vstal od stolu, s miskou a lžicí v ruce popošel ke správci a vlastní odvážností poněkud polekaný řekl:
 
@@ -169,3 +175,5 @@ Poněvadž zamýšlím v dalším ukázat, měl-li pán v bílé vestě pravdu
 [4](./resources/undefined) Zkomolenina lat. [stante](https://la.wiktionary.org/wiki/stare) [pede](https://la.wiktionary.org/wiki/pes) čili „stojícíma nohama“, ve významu ihned. Pozn. red.
 
 [5](./resources/undefined) Druh tvrdého klobouku. Pozn. red.
+
+</section>
