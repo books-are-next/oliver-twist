@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dickens-oliver-twist-6bd9de3",
-  "revision": "6bd9de3",
+  "identifier": "dickens-oliver-twist-63125ed",
+  "revision": "63125ed",
   "readingOrder": [
     "promo.html",
     "oliver_twist_005.html",
@@ -68,11 +68,11 @@
     "oliver_twist_058.html",
     "oliver_twist_059.html",
     "oliver_twist_060.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:18:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979511198
+    "date": "Thu Jul 07 2022 08:35:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182921029
   },
   "documents": [
     {
@@ -1196,7 +1196,7 @@
       "role": "chapter",
       "order": 56,
       "prev": "oliver_twist_059.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1209,11 +1209,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 135,
-      "chars": 884,
+      "chars": 883,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "oliver_twist_060.html",
       "next": null,
@@ -1231,7 +1231,7 @@
   "totals": {
     "all": {
       "words": 147497,
-      "chars": 879044,
+      "chars": 879043,
       "ideas": 4058
     },
     "chapters": {
