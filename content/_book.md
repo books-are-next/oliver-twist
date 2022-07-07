@@ -71,7 +71,7 @@ readingOrder:
   - oliver_twist_058.html
   - oliver_twist_059.html
   - oliver_twist_060.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
