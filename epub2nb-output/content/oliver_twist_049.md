@@ -48,7 +48,7 @@ Protože mu červený nos hněvem ještě víc zčervenal a protože mezi řeč
 
 „No, nemusíš se hned tak čertit,“ namítla jeho společnice.
 
-„Moc fikaný by to bylo, viď, zarazit na nocleh hned v první hospodě před městem, aby Sowerberrymu, jestli nás bude honit, stačilo jen strčit dovnitř svůj starej frňák a nechat si nás vodlifrovat zpátky na fasuňku se španglema[34](./resources/undefined) na rukou,“ mudroval pan Claypole jízlivým tónem. „Ne, ne! Jdu dál a ztratím se v nejužších uličkách, co vyslídím, a nezarazím, dokud nedojdem až k tomu nejzapadlejšímu zapadáku, co mi přijde do merku. Můžeš děkovat osudu, na mou duši, že mám takovou hlavu – dyť nepustit se hned ze začátku schválně falešným směrem a nevrátit se potom oklikou přes pole, tak už tejden bručíš za katrem, vážená dámo. A že by ti to patřilo, jaká seš důra.“
+„Moc fikaný by to bylo, viď, zarazit na nocleh hned v první hospodě před městem, aby Sowerberrymu, jestli nás bude honit, stačilo jen strčit dovnitř svůj starej frňák a nechat si nás vodlifrovat zpátky na fasuňku se španglema[^34] na rukou,“ mudroval pan Claypole jízlivým tónem. „Ne, ne! Jdu dál a ztratím se v nejužších uličkách, co vyslídím, a nezarazím, dokud nedojdem až k tomu nejzapadlejšímu zapadáku, co mi přijde do merku. Můžeš děkovat osudu, na mou duši, že mám takovou hlavu – dyť nepustit se hned ze začátku schválně falešným směrem a nevrátit se potom oklikou přes pole, tak už tejden bručíš za katrem, vážená dámo. A že by ti to patřilo, jaká seš důra.“
 
 „To vím, že nejsem tak mazaná jako ty,“ uznala Karolína, „ale nestrkej všechnu vinu na mě a neříkej, že bych za katrem byla já. Přece šoupnout tam mě, šoupli by tam tebe taky.“
 
@@ -108,7 +108,7 @@ Znovu přiložil oko ke sklu, a když k přepážce přitiskl ucho, bedlivě n
 
 „Jak to myslíš?“ zeptala se jeho společnice.
 
-„Kapsy, ženský pompadúrky[35](./resources/undefined), domy, poštovní vozy, banky!“ prohlásil pan Claypole, ležákem rozkurážený.
+„Kapsy, ženský pompadúrky[^35], domy, poštovní vozy, banky!“ prohlásil pan Claypole, ležákem rozkurážený.
 
 „Ale to všechno přec nemůžeš stačit, broučku,“ namítla Karolína.
 
@@ -250,8 +250,8 @@ S mnohým opakovaným loučením i přáním odešel pan Fagin po svém. A No
 
 * * *
 
-[34](./resources/undefined) Želízka. (Ze staršího argotu.) _Pozn. překl._
+[^34]: Želízka. (Ze staršího argotu.) _Pozn. překl._
 
-[35](./resources/undefined) Typ kabelky. Pozn. red.
+[^35]: Typ kabelky. Pozn. red.
 
 </section>

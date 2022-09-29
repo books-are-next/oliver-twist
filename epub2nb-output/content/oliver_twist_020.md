@@ -23,7 +23,7 @@ Pan Fagin vypadal, jako by to myslel tak ukrutně vážně, že Čódl Bates, kt
 
 „Budeš mluvit nebo ne!“ zahřímal žid a zacloumal Lišákem tak prudce, že připadalo jako učiněný zázrak, že se hoch vůbec ve svém velkém kabátě udržel.
 
-„No, chytli ho šnůrové[12](./resources/undefined), a to je všecko,“ odpověděl Lišák nasupeně. „Helejte, pusťte mě, jo!“ A když se jediným škubnutím úplně vysmekl z velkého kabátu a nechal ho židovi v rukou, popadl Lišák opékací vidličku a učinil výpad proti vestě šprýmovného starého pána – výpad, který by byl, kdyby byl zasáhl cíl, vypustil o trochu víc šprýmovnosti, než by se bylo dalo snadno nahradit.
+„No, chytli ho šnůrové[^12], a to je všecko,“ odpověděl Lišák nasupeně. „Helejte, pusťte mě, jo!“ A když se jediným škubnutím úplně vysmekl z velkého kabátu a nechal ho židovi v rukou, popadl Lišák opékací vidličku a učinil výpad proti vestě šprýmovného starého pána – výpad, který by byl, kdyby byl zasáhl cíl, vypustil o trochu víc šprýmovnosti, než by se bylo dalo snadno nahradit.
 
 V tomto nenadálém nebezpečí žid uskočil s větší mrštností, než by se bylo dalo očekávat u člověka zdánlivě tak sešlého věkem, popadl cínový džbánek a chystal se ho vrhnout útočníkovi na hlavu. Ale protože právě v tom okamžiku upoutalo jeho pozornost přímo příšerné zavytí Čódla Batese, změnil náhle směr a cíl a mrštil plným džbánkem rovnou po řečeném mladém pánovi.
 
@@ -39,7 +39,7 @@ Do světnice se vploužil bílý huňatý pes s hlavou na dvaceti různých mí
 
 Tento rozkaz doprovodil takovým kopancem, že zvíře odletělo až na druhý konec světnice. Ale nejspíš tomu bylo již dlouho zvyklé, neboť ani nehleslo, docela klidně se schoulilo do kouta, mrkajíc svýma velice ohyzdnýma očima snad dvacetkrát za minutu, zřejmě se věnovalo zevrubné prohlídce místnosti.
 
-„Jak si to představuješ? Ty, takovej chamtivej, hrabivej, ne-na-syt-nej starej pasr[13](./resources/undefined), chceš tejrat svoje hochy?“ řekl muž a rozvážně se posadil. „Divím se, že tě nezamordujou. Bejt na jejich místě já, tak tě voddělám. Kdybych se bejval učil u tebe, tak jsem tě voddělal už dávno a potom – ne, tebe bych neprodal, protože ty nejseš dobrej k ničemu jinýmu než tě naložit do špiritusu a ukazovat jako extra hnusnou zrůdu, a já myslím, že tak velký flašky vůbec skláři nefoukaj.“
+„Jak si to představuješ? Ty, takovej chamtivej, hrabivej, ne-na-syt-nej starej pasr[^13], chceš tejrat svoje hochy?“ řekl muž a rozvážně se posadil. „Divím se, že tě nezamordujou. Bejt na jejich místě já, tak tě voddělám. Kdybych se bejval učil u tebe, tak jsem tě voddělal už dávno a potom – ne, tebe bych neprodal, protože ty nejseš dobrej k ničemu jinýmu než tě naložit do špiritusu a ukazovat jako extra hnusnou zrůdu, a já myslím, že tak velký flašky vůbec skláři nefoukaj.“
 
 „Tišej, tišej, pane Sikes,“ šeptal žid celý roztřesený, „ne tak nahlas!“
 
@@ -89,7 +89,7 @@ Těžko hádat, jak dlouho by tak byli třebas seděli a pohlíželi jeden na d
 
 Po zásluze dlužno mladé dámě přiznat, že neprohlásila výslovně, že nikam nepůjde, nýbrž projevila pouze důrazné a naléhavé přání, „aby ji ďas, jestli půjde“ – kterážto zdvořile a jemnocitně vyhýbavá odpověď dokazuje, že mladá dáma byla obdařena onou vrozenou uhlazeností, která nesnese, aby způsobila bližnímu bolest přímým a příkrým odmítnutím.
 
-Žid protáhl obličej. Otočil se od jmenované mladé dámy, která byla skvěle, ne-li dokonce oslnivě vyšňořena v červených šatech, zelených botkách a žlutých papilotách[14](./resources/undefined), a obrátil se k druhé dívce.
+Žid protáhl obličej. Otočil se od jmenované mladé dámy, která byla skvěle, ne-li dokonce oslnivě vyšňořena v červených šatech, zelených botkách a žlutých papilotách[^14], a obrátil se k druhé dívce.
 
 „Na, Nancy,“ pronesl žid konejšivým tónem, „co říkáš ty, milánku?“
 
@@ -159,7 +159,7 @@ Pod strašlivou tíhou obav a nejistoty se zdrcená mladá žena dovrávorala k
 
 Jen si pan Bill Sikes doposlechl hlášení o výsledku výpravy, již s velkým spěchem k sobě povolal bílého psa, nasadil si klobouk a kvapně odešel; tak kvapně, že neobětoval ani vteřinku času na zdvořilý obyčej, aby společnosti řekl slovo na rozloučenou.
 
-„Musíme vědět, kde je, milánkové – musíme ho najít,“ prohlásil žid ve velkém rozčilení. „Ty, Čódl, teď nemáš jinou práci než cábrovat po ulicích, dokud nám o něm nesplašíš nějaké zprávy! Víš, Nancy, najít se prostě musí, milánku. S celou tou věcí spoléhám na tebe, milánku – na tebe a na Lišáka! Počkejte, počkejte,“ dodal žid a roztřesenou rukou odemkl zásuvku, „tuhle máte peníze. Já pro dnešek ten kvelb[15](./resources/undefined) tady zavřu. Však víte, kde mě hledat! Nezdržujte se tu ani minutku. Ani vteřinku, milánkové!“
+„Musíme vědět, kde je, milánkové – musíme ho najít,“ prohlásil žid ve velkém rozčilení. „Ty, Čódl, teď nemáš jinou práci než cábrovat po ulicích, dokud nám o něm nesplašíš nějaké zprávy! Víš, Nancy, najít se prostě musí, milánku. S celou tou věcí spoléhám na tebe, milánku – na tebe a na Lišáka! Počkejte, počkejte,“ dodal žid a roztřesenou rukou odemkl zásuvku, „tuhle máte peníze. Já pro dnešek ten kvelb[^15] tady zavřu. Však víte, kde mě hledat! Nezdržujte se tu ani minutku. Ani vteřinku, milánkové!“
 
 S těmi slovy je vystrkal z místnosti, a když za nimi pečlivě zamkl na dva západy a zasunul závoru na dveřích, vylovil z tajné skrýše skříňku, kterou kdysi bezděky vytáhl před Oliverem. Potom si začal chvatně schovávat hodinky a šperky do kapes pod šaty.
 
@@ -179,12 +179,12 @@ Výrostek v odpověď chápavě zabrumlal a rozběhl se ze schodů za svými d
 
 * * *
 
-[12](./resources/undefined) Policisté (zvláště tajní). (Ze staršího argotu.) _Pozn. překl._
+[^12]: Policisté (zvláště tajní). (Ze staršího argotu.) _Pozn. překl._
 
-[13](./resources/undefined) Překupník kradeného zboží. (Ze staršího argotu.) _Pozn. překl._
+[^13]: Překupník kradeného zboží. (Ze staršího argotu.) _Pozn. překl._
 
-[14](./resources/undefined) Natáčky na vlasy. _Pozn. red._
+[^14]: Natáčky na vlasy. _Pozn. red._
 
-[15](./resources/undefined) Pokoj, lokál, úkryt. (Ze staršího argotu.) _Pozn. překl._
+[^15]: Pokoj, lokál, úkryt. (Ze staršího argotu.) _Pozn. překl._
 
 </section>

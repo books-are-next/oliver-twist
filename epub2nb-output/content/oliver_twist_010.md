@@ -6,7 +6,7 @@ contentType: prose
 <section>
 
 _Vypravuje, jak Oliver Twist měl velice namále a byl by dostal místo,  
-které by rozhodně nebývalo sinekurou[6](./resources/undefined)_
+které by rozhodně nebývalo sinekurou[^6]_
 
 </section>
 
@@ -162,6 +162,6 @@ Nazítří ráno bylo veřejnosti znovu oznámeno, že Oliver Twist je opět „
 
 * * *
 
-[6](./resources/undefined) Výnosné, snadné zaměstnání. Pozn. red.
+[^6]: Výnosné, snadné zaměstnání. Pozn. red.
 
 </section>

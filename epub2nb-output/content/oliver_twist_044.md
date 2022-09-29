@@ -24,7 +24,7 @@ Pan Bumble pojal za manželku paní Corneyovou a byl nyní kustodem špitálu. 
 
 Pan Bumble tím možná myslil, že do toho krátkého období osmi týdnů vtěsnal celý život blaha – ale ten vzdech! Těžko by bylo hledat vzdech výmluvnější.
 
-„Prodal jsem se,“ hovořil Bumble, jak sledoval řetěz svých myšlenek stále dál, „za šest čajovejch žliček, za klíšťky na cukr a za konvičku na mlíko – s pár kouskama vobstarožního nábytku a dvaceti librami na penězích. Bratru za fatku[30](./resources/undefined) jsem se dal. Lacino, zatraceně lacino!“
+„Prodal jsem se,“ hovořil Bumble, jak sledoval řetěz svých myšlenek stále dál, „za šest čajovejch žliček, za klíšťky na cukr a za konvičku na mlíko – s pár kouskama vobstarožního nábytku a dvaceti librami na penězích. Bratru za fatku[^30] jsem se dal. Lacino, zatraceně lacino!“
 
 „Lacino?“ vřískl panu Bumblovi do ucha ostrý hlas. „Ty bys bejval drahej ještě za míň – sám pánbůh nad námi ví, že jsem tě zaplatila až moc draho!“
 
@@ -178,7 +178,7 @@ S těmi slovy přišoupl svému společníkovi přes stůl dva zlaťáky – o
 
 „Na toho jsem se vás ptát nepřišel, o něm jsem toho už slyšel dost,“ zarazil cizinec hned na samém začátku páně Bumblovu tirádu na téma nepravostí ubožáka Olivera. „Zajímá mě jedna ženská – ta babizna, co opatrovala jeho matku. Kde je ta?“
 
-„Kdeže je ta?“ opáčil pan Bumble, kterého jalovcový grog naladil šprýmovně. „To by se dalo těžko říct. Tam, kam vodešla, ať už je to tam nebo tam, nebaběj žádný akušérky[31](./resources/undefined) – tak si myslím, že je na každej pád bez zaměstnání.“
+„Kdeže je ta?“ opáčil pan Bumble, kterého jalovcový grog naladil šprýmovně. „To by se dalo těžko říct. Tam, kam vodešla, ať už je to tam nebo tam, nebaběj žádný akušérky[^31] – tak si myslím, že je na každej pád bez zaměstnání.“
 
 „Co tím myslíte?“ dožadoval se cizinec přísně.
 
@@ -210,8 +210,8 @@ Když kolaturní hodnostář pohlédl na adresu, spatřil, že je ne­úplná, c
 
 * * *
 
-[30](./resources/undefined) Nepatrnost. Pozn. red.
+[^30]: Nepatrnost. Pozn. red.
 
-[31](./resources/undefined) Porodní asistentky. Pozn. red.
+[^31]: Porodní asistentky. Pozn. red.
 
 </section>

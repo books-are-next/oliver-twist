@@ -31,7 +31,7 @@ S těmi slovy sdřepla správcová do křesla, znovu se opřela loktem o stůl
 
 Není jisté, týkala-li se tato poznámka manžela, nebo čajníku. Možná že předmětu druhého, protože se na něj paní Corneyová při těch slovech dívala a potom se ho chopila. Sotva usrkla z prvního šálku, aby čaj ochutnala, vyrušilo ji lehké zaklepání na dveře pokoje.
 
-„No tak pojďte, dělejte!“ zvolala zostra paní Corneyová. „To asi zas umírá některá ta bába. Vždycky umírá, zrovna když sedím u jídla. Nestůjte tam, pouštíte mi sem zimu, to mi nedělejte. Co zas falíruje[23](./resources/undefined), hm?“
+„No tak pojďte, dělejte!“ zvolala zostra paní Corneyová. „To asi zas umírá některá ta bába. Vždycky umírá, zrovna když sedím u jídla. Nestůjte tam, pouštíte mi sem zimu, to mi nedělejte. Co zas falíruje[^23], hm?“
 
 „Nic, madam, nic,“ odpověděl mužský hlas.
 
@@ -129,6 +129,6 @@ Chování pana Bumbla, jakmile zůstal v pokoji o samotě, bylo poněkud nevys
 
 * * *
 
-[23](./resources/undefined) Není v pořádku. _Pozn. red._
+[^23]: Není v pořádku. _Pozn. red._
 
 </section>

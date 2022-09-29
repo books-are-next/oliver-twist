@@ -69,7 +69,7 @@ V mžiku byli na nohou také druzí dva a všichni se čile otáčeli v piln�
 
 „Ty mám já,“ pravil Sikes.
 
-„A flór, klimenty, póry, blikny[22](./resources/undefined) – nic se nezapomnělo?“ vyptával se Toby, mezitímco si do poutka pod šosem kabátu zastrkával malé páčidlo.
+„A flór, klimenty, póry, blikny[^22] – nic se nezapomnělo?“ vyptával se Toby, mezitímco si do poutka pod šosem kabátu zastrkával malé páčidlo.
 
 „Všechno v rychtyku,“ opáčil jeho kumpán. „Dej sem ty špejle, Barney. To je vono.“
 
@@ -147,6 +147,6 @@ Potom se rozlehlo hlasité řinčení zvonce a do toho se mísil rachot střeln
 
 * * *
 
-[22](./resources/undefined) Maska, paklíče, vrtáky, zlodějská svítilna. (Ze staršího argotu.) Pozn. překl.
+[^22]: Maska, paklíče, vrtáky, zlodějská svítilna. (Ze staršího argotu.) Pozn. překl.
 
 </section>

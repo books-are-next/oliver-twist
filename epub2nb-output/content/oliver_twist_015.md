@@ -46,7 +46,7 @@ Hoch, který tímto dotazem oslovil našeho malého poutníka, byl asi stejného
 
 Oliver skromně odpověděl, že tím slovem slyšel vždycky nazývat člověka s velkou hlavou.
 
-„Tě péro, seš mi ty zajíc!“ zvolal mladý pán. „Hlavoun je přeci sudí, a když šlapeš na glejt od hlavouna, tak to nejdeš rovnou kupředu, ale dycinky vejš a vejš a nikdá už zpátky dolů. Copaks eště nikdá nezkusil mlejn[10](./resources/undefined)?“
+„Tě péro, seš mi ty zajíc!“ zvolal mladý pán. „Hlavoun je přeci sudí, a když šlapeš na glejt od hlavouna, tak to nejdeš rovnou kupředu, ale dycinky vejš a vejš a nikdá už zpátky dolů. Copaks eště nikdá nezkusil mlejn[^10]?“
 
 „Jaký mlýn?“ zeptal se Oliver.
 
@@ -120,6 +120,6 @@ Oliver snědl svůj díl a potom mu žid namíchal sklenici horkého jalovcové
 
 * * *
 
-[10](./resources/undefined) Soud. (Ze staršího argotu.) _Pozn. překl._
+[^10]: Soud. (Ze staršího argotu.) _Pozn. překl._
 
 </section>

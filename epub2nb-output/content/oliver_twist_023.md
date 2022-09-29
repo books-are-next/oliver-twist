@@ -192,12 +192,12 @@ Dívka již neřekla ani slovo, nýbrž rvouc si v záchvatu zběsilosti vlasy 
 
 Mladý pán Bates, svěřeným úkolem zjevně velice rozradostněný, vzal skřipec se svíčkou a odvedl Olivera do jedné přilehlé kuchyňské komory, kde byly dva tři slamníky z těch, na kterých Oliver již spával, a tam s mnoha výbuchy smíchu vytáhl přesně tytéž staré šaty, k jejichž odložení si Oliver v domě pana Brownlowa tolik blahopřál a jež byly pro Fagina – když mu je žid, který je koupil, náhodou ukázal – první stopou, kterou o Oliverově pobytu vůbec získal.
 
-„Svlíkni tu parádu,“ poručil Čódl, „a já je dám na opatrování Faginovi. Je to junda[19](./resources/undefined)!“
+„Svlíkni tu parádu,“ poručil Čódl, „a já je dám na opatrování Faginovi. Je to junda[^19]!“
 
 Chudák Oliver neochotně poslechl. Mladý pán Bates si stočil jeho nové šaty pod paždí, vyšel z komory, kde zanechal Olivera ve tmě a zamkl za sebou dveře. Hluk Čódlova smíchu a hlas slečny Betsy – která přišla zrovna jako na zavolanou, aby mohla přítelkyni kropit vodou a prokazovat jí různé další ženské úsluhy, jimiž by urychlila její zotavení – by za šťastnějších okolností, než v jakých se octl Oliver, byly možná mnoho lidí zdržely od spánku. Ale Oliver byl churav a unavený a brzy tvrdě usnul.
 
 * * *
 
-[19](./resources/undefined) Švanda, legrace. Pozn. red.
+[^19]: Švanda, legrace. Pozn. red.
 
 </section>

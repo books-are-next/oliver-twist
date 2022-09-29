@@ -86,7 +86,7 @@ Zároveň s touto poslední chvalozpěvnou poznámkou vytáhl mladý pán Bates
 
 „Nerozčilujte se, milánku,“ domlouval mu Fagin pokorně. „Ani na chviličku jsem na vás nezapomněl, Bille, ani na momentíček!“
 
-„Bodejť bys zapomněl! To vsadím krk, že ne!“ opáčil Sikes s trpkým úsměškem. „Celej čas, co mě tady roztřásala a spalovala horečka, jsi vostošest kul pikle a plány – Bill musí udělat tohle, Bill musí udělat támhleto, Bill musí za pár špinavejch grošů udělat vůbec všecko, jen co se z toho vylíže – je akorát dost ubohej, aby pro tebe musel hakovat[32](./resources/undefined)! Nebejt tuhle holky, už jsem možná dávno natáh brka.“
+„Bodejť bys zapomněl! To vsadím krk, že ne!“ opáčil Sikes s trpkým úsměškem. „Celej čas, co mě tady roztřásala a spalovala horečka, jsi vostošest kul pikle a plány – Bill musí udělat tohle, Bill musí udělat támhleto, Bill musí za pár špinavejch grošů udělat vůbec všecko, jen co se z toho vylíže – je akorát dost ubohej, aby pro tebe musel hakovat[^32]! Nebejt tuhle holky, už jsem možná dávno natáh brka.“
 
 „Na vidíte, Bille,“ chytil se Fagin na svou obranu dychtivě jeho slov, „nebejt tuhle holky! A kdo jinej než právě chudák starej Fagin vám k tomu dopomohl, že u sebe máte takový šikovný děvče?“
 
@@ -134,7 +134,7 @@ S takovým i jiným hubováním na touž notu shraboval pan Toby Crackit svou 
 
 „Aha!“ zvolal Tom vítězoslavně. „V tom to vězí! Nešť, voškubal mě dohola. Ale když budu chtít, můžu se přec sebrat a jít si zas něco vydělat, no né, Fagine?“
 
-„To se ví, Tome, můžeš – a čím půjdeš dřív, tím líp. Běž si teda tu svou prohru vynahradit hnedka a nemarni už dál čas. Lišák, Čódl, hopla! Je na čase, abyste šli knajzovat[33](./resources/undefined). Honem! Je už málem deset a pořád nikde žádná práce.“
+„To se ví, Tome, můžeš – a čím půjdeš dřív, tím líp. Běž si teda tu svou prohru vynahradit hnedka a nemarni už dál čas. Lišák, Čódl, hopla! Je na čase, abyste šli knajzovat[^33]. Honem! Je už málem deset a pořád nikde žádná práce.“
 
 Na tuto pobídku se hoši poslušně zdvihli, kývli na Nancy, popadli klobouk a zamířili z místnosti, přičemž Lišák a jeho čiperný přítel se cestou bavili četnými úsměšky na účet pana Chitlinga, na jehož chování, jak je jen spravedlivo poznamenat, nebylo nic obzvlášť nápadného ani pozoruhodného, neboť po Londýně běhá značný počet bujných mladých panáčků, kteří platí mnohem vyšší cenu než pan Chitling za to, aby je lidé viděli v dobré společnosti, jakož i značný počet nóbl kavalírů (vytvářejících shora zmíněnou dobrou společnost), kteří budují svou pověst na velice podobném základě jako fešák Toby Crackit.
 
@@ -286,8 +286,8 @@ Nevšímajíc si toho všeho, poněvadž měla na srdci důležitější věci, 
 
 * * *
 
-[32](./resources/undefined) Pracovat (ve smyslu krást). Pozn. překl.
+[^32]: Pracovat (ve smyslu krást). Pozn. překl.
 
-[33](./resources/undefined) Být na číhané, slídit, větřit. (Ze staršího argotu.) _Pozn. překl._
+[^33]: Být na číhané, slídit, větřit. (Ze staršího argotu.) _Pozn. překl._
 
 </section>

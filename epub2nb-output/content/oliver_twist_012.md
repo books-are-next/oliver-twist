@@ -12,7 +12,7 @@ a tvoří si nepříznivý úsudek o živnosti svého pána_
 
 <section>
 
-Když zůstal Oliver v pohřebníkově krámě sám, postavil lampičku na truhlářskou hoblici a plaše se kolem sebe rozhlížel s pocitem uctivé bázně a hrůzy, což mnozí lidé o hodně starší než on jistě bez námahy pochopí. Nedodělaná rakev na černém podstavci, která stála uprostřed krámu, vypadala tak pochmurně a tak připomínala smrt, že kdykoli mu oči zabloudily k tomu příšernému předmětu, vždycky se zimničně roztřásl a téměř očekával, že z něho před jeho očima pomalu zvedne hlavu nějaká strašlivá postava a vyděsí ho až k šílenství. O zeď byla v pravidelném rozestupu opřena dlouhá řada jilmových prken, všech přiříznutých do stejného tvaru, a v kalném přítmí vypadala jako nahrbení duchové s rukama v kapsách u kalhot. Po zemi se válely štítky na rakve, jilmové hobliny, hřebíky s lesklými hlavičkami a ostřižky černé látky a stěnu za pultem zdobilo výrazné zpodobení dvou hlídačů mrtvol se silně naškrobeným nákrčníkem, stojících na stráži u portálu honosného obydlí, k němuž zpovzdáli přijíždí furgon[8](./resources/undefined) tažený čtyřmi bujnými vraníky. V krámě bylo dusno a horko. Vzduch se zdál zamořený pachem rakví. Kout pod pultem, kam Oliverovi hodili koudelový slamníček, vypadal jako hrob.
+Když zůstal Oliver v pohřebníkově krámě sám, postavil lampičku na truhlářskou hoblici a plaše se kolem sebe rozhlížel s pocitem uctivé bázně a hrůzy, což mnozí lidé o hodně starší než on jistě bez námahy pochopí. Nedodělaná rakev na černém podstavci, která stála uprostřed krámu, vypadala tak pochmurně a tak připomínala smrt, že kdykoli mu oči zabloudily k tomu příšernému předmětu, vždycky se zimničně roztřásl a téměř očekával, že z něho před jeho očima pomalu zvedne hlavu nějaká strašlivá postava a vyděsí ho až k šílenství. O zeď byla v pravidelném rozestupu opřena dlouhá řada jilmových prken, všech přiříznutých do stejného tvaru, a v kalném přítmí vypadala jako nahrbení duchové s rukama v kapsách u kalhot. Po zemi se válely štítky na rakve, jilmové hobliny, hřebíky s lesklými hlavičkami a ostřižky černé látky a stěnu za pultem zdobilo výrazné zpodobení dvou hlídačů mrtvol se silně naškrobeným nákrčníkem, stojících na stráži u portálu honosného obydlí, k němuž zpovzdáli přijíždí furgon[^8] tažený čtyřmi bujnými vraníky. V krámě bylo dusno a horko. Vzduch se zdál zamořený pachem rakví. Kout pod pultem, kam Oliverovi hodili koudelový slamníček, vypadal jako hrob.
 
 To však nebyly jediné smutné pocity, které Olivera skličovaly. Byl sám v cizím prostředí: a všichni víme, jak v podobné situaci i nejsrdnatějšího z nás někdy mrazí a jak se cítí opuštěný. Chlapec neměl jediného přítele, o kterého by stál nebo který by stál o něho. Neměl čerstvou lítostivou vzpomínku na nedávné rozloučení s někým, ani mu na srdce těžce nedoléhala nepřítomnost nějaké milované a v dobré paměti chované tváře, ale přesto mu u srdce těžko bylo – a když zalézal do svého těsného lůžka, přál si, aby to byla rakev jeho a aby ho mohli uložit ke klidnému a věčnému spánku do hřbitovní půdy, kde by mu nad hlavou hebce ševelila vysoká tráva a hluboký hlas starého zvonu by ho ve spánku konejšil.
 
@@ -184,6 +184,6 @@ Oliver se v duchu zvědavě ptal, trvalo-li hodně dlouho, než si na to zvykl 
 
 * * *
 
-[8](./resources/undefined) Nákladní vůz. Pozn. red.
+[^8]: Nákladní vůz. Pozn. red.
 
 </section>

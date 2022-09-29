@@ -131,10 +131,10 @@ Muži se ho chopili, vysvobodili z jeho zaťatých prstů Olivera a zadrželi 
 
 Trvalo delší čas, než vyšli z věznice. Oliver po tom strašlivém výstupu div neomdlel a byl tak slabý, že snad hodinu nebo i déle neměl dost sil, aby udělal krok.
 
-Svítal den, když se konečně dostali zase ven. Na ulici se již shromáždil obrovský dav; okna byla plná lidí, kteří kouřili a hráli karty, aby si ukrátili čas; zástupy se strkaly, hašteřily, žertovaly. Všechno dýchalo životem a veselím, jen ta masa temných obrysů v samém středu nečerné lešení, příčné břevno, provaz a ostatní příšerné parafernálie[40](./resources/undefined) smrti.
+Svítal den, když se konečně dostali zase ven. Na ulici se již shromáždil obrovský dav; okna byla plná lidí, kteří kouřili a hráli karty, aby si ukrátili čas; zástupy se strkaly, hašteřily, žertovaly. Všechno dýchalo životem a veselím, jen ta masa temných obrysů v samém středu nečerné lešení, příčné břevno, provaz a ostatní příšerné parafernálie[^40] smrti.
 
 * * *
 
-[40](./resources/undefined) Průvodní jevy, potřeby. _Pozn. red._
+[^40]: Průvodní jevy, potřeby. _Pozn. red._
 
 </section>

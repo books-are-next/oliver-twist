@@ -48,7 +48,7 @@ Staré pořekadlo praví, že k hádce musí být vždycky dva. Pan Sikes, kter
 
 „Chm,“ odfrkl si Sikes, jako by si myslil, že notně větší zájem má na věci žid než on. „Tak co, co pro mě máš novýho?“
 
-„Že jsme všechno šťastně roztavili,“ odpověděl Fagin, „a tohle je váš šáb[18](./resources/undefined). Je to o hodně víc, než by to mělo dělat, milánku – ale protože vím, že mi zas někdy prokážete dobrou službu, tak –“
+„Že jsme všechno šťastně roztavili,“ odpověděl Fagin, „a tohle je váš šáb[^18]. Je to o hodně víc, než by to mělo dělat, milánku – ale protože vím, že mi zas někdy prokážete dobrou službu, tak –“
 
 „Nech si ty kecy!“ skočil mu lupič do řeči. „Kde to máš? Sem s tím!“
 
@@ -142,6 +142,6 @@ Rozžíhaly se plynové lucerny; paní Bedwinová úzkostlivě čekala v otevř
 
 * * *
 
-[18](./resources/undefined) _Šáb, šábnout, šábovat_ – díl, rozdělit, dělit (zvláště zisk, výdělek, kořist). (Ze staršího argotu.) _Pozn. překl._
+[^18]: _Šáb, šábnout, šábovat_ – díl, rozdělit, dělit (zvláště zisk, výdělek, kořist). (Ze staršího argotu.) _Pozn. překl._
 
 </section>
