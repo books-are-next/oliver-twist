@@ -86,7 +86,7 @@ Když toho večera přivedli malého Olivera před „pány“ a ti mu oznámil
 
 Leč třebaže bylo zcela přirozené, že spíš než kdo jiný na světě právě náš výbor musí podlehnout silnému pocitu ctnostného pohoršení a zděšení, projeví-li kdokoli sebemenší známku nedostatku citu, v daném případě byli páni značně na omylu. Prostá skutečnost byla, že Oliver, místo aby měl citu tuze málo, měl ho spíš tuze mnoho; a byl na nejlepší cestě k tomu, že vlivem špatného zacházení, jehož se mu až dosud dostávalo, na celý život propadne zvířecí otupělosti a zarputilosti. Zprávu o svém novém údělu vyslechl bez jediného hlesu, a když mu do ruky strčili jeho zavazadlo – jež nebylo nijak těžko unést, protože všechno se vešlo do papírového balíčku asi šest palců krát šest velkého a tři palce vysokého – stáhl si čepici do čela, znovu se chytil manžety na páně Bumblově rukávu a dal se tímto hodnostářem odvést do nového očistce.
 
-Chvíli táhl pan Bumble Olivera za sebou bez povšimnutí i beze slova – neboť serbus nesl hlavu velmi vysoko, jak se na serbusa vždycky patří – a protože bylo ten den větrno, byl malý Oliver úplně zahalen rozevlátými šosy páně Bumblova kabátu, jak je vítr rozvíval a odhaloval v plné kráse jeho revérovou[7](./resources/undefined) vestu a hnědavé sametové podkolenice. Když se však přiblížili k cíli cesty, uznal pan Bumble za účelné shlédnout z výše a přesvědčit se, je-li hoch řádně způsobilý předstoupit před zkoumavé oko nového pána. A to také s vhodným a patřičným výrazem milostivého ochráncovství vzápětí učinil.
+Chvíli táhl pan Bumble Olivera za sebou bez povšimnutí i beze slova – neboť serbus nesl hlavu velmi vysoko, jak se na serbusa vždycky patří – a protože bylo ten den větrno, byl malý Oliver úplně zahalen rozevlátými šosy páně Bumblova kabátu, jak je vítr rozvíval a odhaloval v plné kráse jeho revérovou[^7] vestu a hnědavé sametové podkolenice. Když se však přiblížili k cíli cesty, uznal pan Bumble za účelné shlédnout z výše a přesvědčit se, je-li hoch řádně způsobilý předstoupit před zkoumavé oko nového pána. A to také s vhodným a patřičným výrazem milostivého ochráncovství vzápětí učinil.
 
 „Olivere!“ pravil pan Bumble.
 
@@ -140,6 +140,6 @@ Oliver již déle neotálel a povolně následoval svou novou paní.
 
 * * *
 
-[7](./resources/undefined) S klopami. _Pozn. red._
+[^7]: S klopami. _Pozn. red._
 
 </section>

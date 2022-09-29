@@ -22,7 +22,7 @@ Když měl kávu hotovou, odtáhl žid pánvičku na patku. Pak zůstal chvilič
 
 Jakmile se po této stránce upokojil, přistoupil žid potichounku ke dveřím a zasunul závoru. Potom vytáhl – jak Oliverovi připadalo, z nějaké díry v podlaze – malou skříňku a opatrně ji postavil na stůl. Když zvedl víko a podíval se dovnitř, zasvítily mu oči. Potom si ke stolu přitáhl starou židli, posadil se a ze skříňky vylovil nádherné zlaté hodinky, posázené blyštivými drahokamy.
 
-„Ts, ts!“ sykl žid, schoulil hlavu mezi ramena a ohyzdným šklebem zkřivil každičký rys v obličeji. „Chakmoni[11](./resources/undefined) chytrý! Chakmoni! Pevný až do konce! Ani slovo necekli starýmu pastorovi, kde všecko je. Ani slovo nepíchli na starýho Fagina! A taky nač? Ani na vteřinku by jim to nebylo uvolnilo oprátku nebo podrželo propadlo. Ne, ne, ne, ani na vteřinku! Pašáci! Pašáci!“
+„Ts, ts!“ sykl žid, schoulil hlavu mezi ramena a ohyzdným šklebem zkřivil každičký rys v obličeji. „Chakmoni[^11] chytrý! Chakmoni! Pevný až do konce! Ani slovo necekli starýmu pastorovi, kde všecko je. Ani slovo nepíchli na starýho Fagina! A taky nač? Ani na vteřinku by jim to nebylo uvolnilo oprátku nebo podrželo propadlo. Ne, ne, ne, ani na vteřinku! Pašáci! Pašáci!“
 
 S takovými a jinými úvahami podobného rázu, huhlanými pod vousy, uložil žid opět hodinky do jejich bezpečného úkrytu. Z téže skříňky pak postupně vytáhl a se stejným potěšením si prohlížel přinejmenším ještě patery další hodinky kromě prstenů, broží, náramků i jiných klenotnických výrobků z materiálů tak nádherných a tak umělecky zpracovaných, že Oliver neměl ani ponětí, jak se vůbec jmenují.
 
@@ -124,6 +124,6 @@ Oliverovi bylo divné, co má žertovné vybírání kapes starému pánovi co d
 
 * * *
 
-[11](./resources/undefined) Chytrák, šikulka. (Ze staršího argotu.) _Pozn. překl._
+[^11]: Chytrák, šikulka. (Ze staršího argotu.) _Pozn. překl._
 
 </section>

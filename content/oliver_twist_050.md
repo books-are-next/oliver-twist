@@ -81,7 +81,7 @@ Fagin se už chystal ty záhadné výrazy přeložit do obecného jazyka – a�
 
 „Jak to myslíš?“
 
-„Vyštrachali toho pána, co mu patří ta tabatěrka – a ještě pár dalších má přijít dosvědčit Lišákovu totožnost – a tak ho laufpas za móře nemine,“ odpověděl mladý pán Bates. „Musíte mě vohodit do plný smuteční parády, Fagine, i s krepovým fáborem na klobouku, abych k němu moh zajít na vizitu, než se vydá na cesty. Když jeden pomyslí, že Jack Dawkins – číman Jack – náš Lišák – Ferina Lišák, si to pofáruje za sprostou třígrošovou piksličku! Co živ bych do něj nebyl řek, že to udělá lacinějc než za fuksový píďata i s klanečníkem a cingrlatama[36](./resources/undefined). Noné, proč aspoň nevoholil nějakýho prachatýho dědulu vo všechen šmuk[37](./resources/undefined), aby přeci jel na rajz jako pán a né jako vobyčejnej chmaták bez ždibku cti a slávy!“
+„Vyštrachali toho pána, co mu patří ta tabatěrka – a ještě pár dalších má přijít dosvědčit Lišákovu totožnost – a tak ho laufpas za móře nemine,“ odpověděl mladý pán Bates. „Musíte mě vohodit do plný smuteční parády, Fagine, i s krepovým fáborem na klobouku, abych k němu moh zajít na vizitu, než se vydá na cesty. Když jeden pomyslí, že Jack Dawkins – číman Jack – náš Lišák – Ferina Lišák, si to pofáruje za sprostou třígrošovou piksličku! Co živ bych do něj nebyl řek, že to udělá lacinějc než za fuksový píďata i s klanečníkem a cingrlatama[^36]. Noné, proč aspoň nevoholil nějakýho prachatýho dědulu vo všechen šmuk[^37], aby přeci jel na rajz jako pán a né jako vobyčejnej chmaták bez ždibku cti a slávy!“
 
 Když tímto výlevem vyjádřil svou účast s nešťastným přítelem, usadil se mladý pán Bates na nejbližší židli, v tváři výraz nevole a sklíčenosti.
 
@@ -101,7 +101,7 @@ Když pan Bolter přikývl na souhlas, pozoroval Fagin se zjevným uspokojením 
 
 „No, to je pravda, to čest teda je!“ uznal Čódl již trochu uchlácholený.
 
-„Dostane všechno, co bude potřebovat,“ pokračoval žid. „Povede v loretě[38](./resources/undefined) život jako pán, Čódl, jako pán! Den co den svou míru piva a do kapsy peníze na hraní, jestli je nebude moct utratit.“
+„Dostane všechno, co bude potřebovat,“ pokračoval žid. „Povede v loretě[^38] život jako pán, Čódl, jako pán! Den co den svou míru piva a do kapsy peníze na hraní, jestli je nebude moct utratit.“
 
 „No ne, vopravdu?“ zvolal Čódl Bates.
 
@@ -145,7 +145,7 @@ Pan Fagin vpadl výstřednímu rozpoložení svého mladého přítele po pravd�
 
 Mladý pán Bates přijal tuto honosnou hrozbu se smíchem tak nehorázným, že trvalo chvíli, než mohl do řeči zasáhnout Fagin a panu Bolterovi vyložit, že tím ani v nejmenším nic neriskuje, když zajde na policejní stanici; že se zřetelem k tomu, že o té drobné příhodě, ve které měl prsty, do Londýna dosud nedošla zpráva, a stejně tak ani popis jeho osoby, velice pravděpodobně nikdo nemá vůbec ani podezření, že si za úkryt vybral hlavní město; a jestliže se patřičně přestrojí, že může do té budovy vkročit stejně bezpečně jako do kterékoli jiné v Londýně, neboť to je jistě ze všech domů ten poslední, kam by někoho napadlo, že by se on mohl o vlastní vůli uchýlit.
 
-Pan Bolter, dílem přesvědčený těmito domluvami, ale měrou daleko větší přemožený strachem z Fagina, se konečně velice nemilostivě uvolil tuto výpravu podniknout. Podle Faginova příkazu ihned svůj úbor zaměnil za povoznickou halenu, manšestrové rajtky a kožené holeně, kteréžto oděvní součásti měl žid všechny po ruce. Z téhož pramene dostal ještě plstěný klobouk, bohatě vyšperkovaný mýtními boletami[39](./resources/undefined), a formanský bič. Takto vymóděný se měl vklátit do soudní síně, jak se mohlo mít za to, že by tam pro ukojení zvědavosti zabrousil nějaký venkovan z trhu na Covent Garden; a protože byl nemotorný, nehezký a vyzáblý, jak se na takového chasníka patří, neměl pan Fagin nejmenší strach, že by figuru vozky nezpodobnil dokonale.
+Pan Bolter, dílem přesvědčený těmito domluvami, ale měrou daleko větší přemožený strachem z Fagina, se konečně velice nemilostivě uvolil tuto výpravu podniknout. Podle Faginova příkazu ihned svůj úbor zaměnil za povoznickou halenu, manšestrové rajtky a kožené holeně, kteréžto oděvní součásti měl žid všechny po ruce. Z téhož pramene dostal ještě plstěný klobouk, bohatě vyšperkovaný mýtními boletami[^39], a formanský bič. Takto vymóděný se měl vklátit do soudní síně, jak se mohlo mít za to, že by tam pro ukojení zvědavosti zabrousil nějaký venkovan z trhu na Covent Garden; a protože byl nemotorný, nehezký a vyzáblý, jak se na takového chasníka patří, neměl pan Fagin nejmenší strach, že by figuru vozky nezpodobnil dokonale.
 
 Jakmile byli s těmito přípravami hotovi, obeznámili ho se všemi nezbytnými známkami a rysy, podle kterých Ferinu Lišáka určitě pozná, a potom ho mladý pán Bates dovedl zapadlými a klikatými uličkami až do samé blízkosti Bow Street. Tam mu Čódl Bates ještě zevrubně vylíčil vnitřní situaci budovy a popis doplnil obšírnými radami, jak má jít pořád rovně chodbou, a až vyjde na dvůr, zahnout do dveří nad schůdky po pravé straně, a než vstoupí do jednací síně, sundat klobouk, a když ho nakonec vyzval, aby si dál už pospíšil sám, slíbil mu, že na něj počká, dokud se nevrátí, na tom místě, kde se rozešli.
 
@@ -215,12 +215,12 @@ Oba potom pospíchali společně zpátky, aby panu Faginovi přinesli potěšuj�
 
 * * *
 
-[36](./resources/undefined) Zlaté hodinky s tlustým řetízkem a přívěsky. (Ze staršího argotu.) _Pozn. překl._
+[^36]: Zlaté hodinky s tlustým řetízkem a přívěsky. (Ze staršího argotu.) _Pozn. překl._
 
-[37](./resources/undefined) Cennosti, klenoty. (Ze staršího argotu.) _Pozn. překl._
+[^37]: Cennosti, klenoty. (Ze staršího argotu.) _Pozn. překl._
 
-[38](./resources/undefined) Vězení. (Ze staršího argotu.) _Pozn. překl._
+[^38]: Vězení. (Ze staršího argotu.) _Pozn. překl._
 
-[39](./resources/undefined) Stvrzenka o zaplacení. _Pozn. red._
+[^39]: Stvrzenka o zaplacení. _Pozn. red._
 
 </section>

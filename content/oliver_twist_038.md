@@ -113,13 +113,13 @@ Když vyslovil tento poznatek získaný zkušeností, strčil si doktor ruce do 
 
 „Tak co byste nejraději?“ zeptal se doktor a zamířil za mladou dámou k příborníku.
 
-„Krapítek šňáby[28](./resources/undefined), vašnosti, jestli to vyjde na jedno,“ odpověděl Blathers. „Taková jízda z Londýna, dámo, to jeden nějak prostydne! A já mám zkušenost, že pálenka vždycky ještě nejspíš člověku zahřeje osrdí.“
+„Krapítek šňáby[^28], vašnosti, jestli to vyjde na jedno,“ odpověděl Blathers. „Taková jízda z Londýna, dámo, to jeden nějak prostydne! A já mám zkušenost, že pálenka vždycky ještě nejspíš člověku zahřeje osrdí.“
 
 Toto zajímavé sdělení platilo paní Maylieové, která je také velmi blahosklonně kvitovala. Mezitímco jí je Blathers podával, vyklouzl doktor z pokoje.
 
 „Jojo, dámy,“ pravil pan Blathers, který nedržel vinnou sklenku za nožičku, nýbrž ji uchopil palcem a ukazováčkem levé ruky za spodek a tak si ji zvedl před prsa, „už jsem v životě viděl pěknou řádku podobných meloušků.“
 
-„Třeba ta chmátka[29](./resources/undefined) v té zapadlé uličce v Edmontonu, Blathersi,“ napomohl kolegově paměti pan Duff.
+„Třeba ta chmátka[^29] v té zapadlé uličce v Edmontonu, Blathersi,“ napomohl kolegově paměti pan Duff.
 
 „To bylo něco na tenhle způsob, viďte?“ opáčil pan Blathers. „To tenkrát proved Chickweed Skoba, ten to udělal.“
 
@@ -187,8 +187,8 @@ Mezitím se Oliver za vespolné péče paní Maylieové, Rózy a dobrosrdečné
 
 * * *
 
-[28](./resources/undefined) Kořalka. Pozn. red.
+[^28]: Kořalka. Pozn. red.
 
-[29](./resources/undefined) Krádež. (Ze staršího argotu.) _Pozn. překl._
+[^29]: Krádež. (Ze staršího argotu.) _Pozn. překl._
 
 </section>

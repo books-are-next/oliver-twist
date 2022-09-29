@@ -26,7 +26,7 @@ Oliver se brzy vzpamatoval z krátké mdloby, do níž ho uvrhl náhlý výkři
 
 „No dobře!“ řekla stará paní dobromyslně. „Jen se hezky pěkně seber, co můžeš nejrychleji, synáčku, a pak ho zas pověsíme, a je to! To ti slibuji! A teď si budeme povídat o něčem jiném.“
 
-To bylo veškeré vysvětlení, kterého se tenkrát Oliverovi o obraze dostalo. Ale protože na něho byla stará paní po celou jeho nemoc tak hodná, snažil se prozatím na tu věc už dál nemyslit; poslouchal tedy pozorně, když mu vyprávěla přečetné historky o své milé a hezké dceři, provdané za milého a hezkého muže, která žije na venkově, a o synovi, který je písařem u jednoho velkoobchodníka v Západní Indii a který je rovněž takový hodný mladý muž a čtyřikrát do roka píše domů takové láskyplné dopisy, že jí to až vhání slzy do očí, když o nich mluví. Než stará paní zeširoka a zdlouha dovykládala o skvělých vlastnostech svých dětí, jakož i o přednostech svého hodného dobrého manžela – který je na pravdě boží, ubohá duše drahá, zrovna šestadvacet let – byl čas na odpolední čaj. Po čaji začala Olivera učit kribidž[16](./resources/undefined) a Oliver se učil tak rychle, jak ona stačila učit; tou karetní hrou se pak bavili s velkým zájmem a vážností, dokud nenadešel čas, aby nemocný dostal trochu zředěného horkého vína s krajíčkem suché topinky a potom šel sladce spát.
+To bylo veškeré vysvětlení, kterého se tenkrát Oliverovi o obraze dostalo. Ale protože na něho byla stará paní po celou jeho nemoc tak hodná, snažil se prozatím na tu věc už dál nemyslit; poslouchal tedy pozorně, když mu vyprávěla přečetné historky o své milé a hezké dceři, provdané za milého a hezkého muže, která žije na venkově, a o synovi, který je písařem u jednoho velkoobchodníka v Západní Indii a který je rovněž takový hodný mladý muž a čtyřikrát do roka píše domů takové láskyplné dopisy, že jí to až vhání slzy do očí, když o nich mluví. Než stará paní zeširoka a zdlouha dovykládala o skvělých vlastnostech svých dětí, jakož i o přednostech svého hodného dobrého manžela – který je na pravdě boží, ubohá duše drahá, zrovna šestadvacet let – byl čas na odpolední čaj. Po čaji začala Olivera učit kribidž[^16] a Oliver se učil tak rychle, jak ona stačila učit; tou karetní hrou se pak bavili s velkým zájmem a vážností, dokud nenadešel čas, aby nemocný dostal trochu zředěného horkého vína s krajíčkem suché topinky a potom šel sladce spát.
 
 Byly to šťastné dny, ve kterých se Oliver takhle zotavoval. Všechno bylo tak tiché a čisté a pořádné, každý tak vlídný a mírný, že mu to po všem hluku a zmatku, v němž až dosud od narození ustavičně žil, připadalo jako samo nebe. Jakmile dost zesílil, aby se mohl sám patřičně obléknout, ihned mu dal pan Brownlow obstarat úplně nový oblek a novou čepici i nové střevíce. Protože Oliverovi řekli, že si se starými šaty může udělat, co chce, dal je jedné služce, která na něho byla zvlášť hodná, a požádal ji, aby je prodala některému židovi a peníze si nechala. To velmi ochotně provedla, a když se Oliver podíval z okna předního pokoje v přízemí a viděl, jak je žid roluje, strká do pytle a odchází, pocítil velkou radost při pomyšlení, že jsou nadobro pryč a že už nehrozí sebemenší nebezpečí, že by si je mohl ještě někdy obléci. Byly to prabídné hadry, abychom řekli pravdu, a Oliver v celém životě ještě na sobě nový oblek neměl.
 
@@ -100,7 +100,7 @@ Oliver se uklonil.
 
 „Ne, ne, žádný pomeranč neměl,“ ujišťoval ho pan Brownlow se smíchem. „No tak, odložte si přece klobouk a promluvte si s mým mladým přítelem.“
 
-„Po téhle stránce jsem náramně citlivý,“ začal popudlivý starý pán, zatímco si svlékal rukavice. „V naší ulici leží na chodníku pořád nějaká ta pomerančová slupka, a já vím, že ji tam pohazuje chlapec od doktora na rohu. Včera večer uklouzla po kousku jedna mladá žena a narazila zrovna na plůtek před mou zahrádkou. Jen se zvedla, viděl jsem, jak se jí oči točí k té ďábelské červené lucerně s tím pimprlovým světlem. ‚Nechoďte k němu,‘ křikl jsem na ni z okna, ‚je to vrah! Zákeřník!‘ A taky že je. Jestli není –“ Tu popudlivý starý pán udeřil prudce holí do podlahy – úder, kterému jeho přátelé vždycky přikládali význam obvyklé nabídky, kdykoli ji nevyjádřil přímo slovy. Potom, stále ještě s holí v ruce, se posadil, rozevřel složený binokl[17](./resources/undefined), který nosil zavěšený na široké černé stuze, a začal si prohlížet Olivera; ten když viděl, že je předmětem zkoumání, zčervenal a znovu se uklonil.
+„Po téhle stránce jsem náramně citlivý,“ začal popudlivý starý pán, zatímco si svlékal rukavice. „V naší ulici leží na chodníku pořád nějaká ta pomerančová slupka, a já vím, že ji tam pohazuje chlapec od doktora na rohu. Včera večer uklouzla po kousku jedna mladá žena a narazila zrovna na plůtek před mou zahrádkou. Jen se zvedla, viděl jsem, jak se jí oči točí k té ďábelské červené lucerně s tím pimprlovým světlem. ‚Nechoďte k němu,‘ křikl jsem na ni z okna, ‚je to vrah! Zákeřník!‘ A taky že je. Jestli není –“ Tu popudlivý starý pán udeřil prudce holí do podlahy – úder, kterému jeho přátelé vždycky přikládali význam obvyklé nabídky, kdykoli ji nevyjádřil přímo slovy. Potom, stále ještě s holí v ruce, se posadil, rozevřel složený binokl[^17], který nosil zavěšený na široké černé stuze, a začal si prohlížet Olivera; ten když viděl, že je předmětem zkoumání, zčervenal a znovu se uklonil.
 
 „Tak to je ten hoch?“ promluvil konečně pan Grimwig.
 
@@ -202,8 +202,8 @@ Setmělo se již tolik, že číslice na ciferníku bylo sotva rozeznat, ale oba
 
 * * *
 
-[16](./resources/undefined) Karetní hra. Pozn. red.
+[^16]: Karetní hra. Pozn. red.
 
-[17](./resources/undefined) Skřipec, předchůdce dnešních brýlí. Pozn. red.
+[^17]: Skřipec, předchůdce dnešních brýlí. Pozn. red.
 
 </section>

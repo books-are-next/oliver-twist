@@ -30,7 +30,7 @@ Jenže pan Bumble byl otylý a ke všemu cholerik, a tak místo aby toto srde�
 
 Ačkoli toto pozvání provázelo pukrle, které by bylo dokázalo oblomit i srdce kostelního výbora, ani v nejmenším neobměkčilo obecního sluhu.
 
-„Je tohle podle vás, paní Mannová, uctivý a patřičný chování,“ ptal se pan Bumble s úřední holí pevně sevřenou v pěsti, „nechat obecní činovníky čekat u zahradní branky, když sem přijdou stran obecní záležitosti, co se tejče obecních sirotků? Uvědomujete si, paní Mannová, že jste, abych se tak vyjádřil, osoba kulaturou[3](./resources/undefined) pověřená a placená?“
+„Je tohle podle vás, paní Mannová, uctivý a patřičný chování,“ ptal se pan Bumble s úřední holí pevně sevřenou v pěsti, „nechat obecní činovníky čekat u zahradní branky, když sem přijdou stran obecní záležitosti, co se tejče obecních sirotků? Uvědomujete si, paní Mannová, že jste, abych se tak vyjádřil, osoba kulaturou[^3] pověřená a placená?“
 
 „Věřej mi, pane Bumble, jenom jsem honem povídala těm pár zlatejm dětičkám, co na nich tolika držej, že k nám zrovinka jdou,“ odpověděla paní Mannová velmi poníženě.
 
@@ -74,13 +74,13 @@ Paní Mannová spráskla úžasem ruce, ale po krátkém zamyšlení vyhrkla:
 
 „No ne, vašnosti, voni jsou hotovej literák!“ podivila se paní Mannová.
 
-„Inu, když myslíte,“ odpověděl serbus, tou poklonou zřejmě polichocený, „třeba jsem. Třeba jsem, paní Mannová.“ Dopil jalovcový střik a dodal: „Anžto je Oliver už moc velkej, aby zůstával tady, vejbor rozhodl, že ho vezme zpátky do špitálu. Sám osobně jdu pro něj, abych ho tam odvedl. Tak mi pro něj štandopede[4](./resources/undefined) pošlete.“
+„Inu, když myslíte,“ odpověděl serbus, tou poklonou zřejmě polichocený, „třeba jsem. Třeba jsem, paní Mannová.“ Dopil jalovcový střik a dodal: „Anžto je Oliver už moc velkej, aby zůstával tady, vejbor rozhodl, že ho vezme zpátky do špitálu. Sám osobně jdu pro něj, abych ho tam odvedl. Tak mi pro něj štandopede[^4] pošlete.“
 
 „Hnedka ho přivedu,“ odpověděla paní Mannová a vyšla za tím cílem z pokoje. A ve chvilce byl Oliver – z něhož mezitím odstranili takovou vrstvu zevního povlaku špíny, která mu obalovala obličej a ruce, jakou bylo možno na jedno umytí odrhnout – svou dobrotivou ochránkyní přiveden do pokoje.
 
 „Pokloň se pánovi, Olivere,“ nařídila paní Mannová.
 
-Oliver vysekl poklonku, která platila dílem serbusovi na židli a dílem dvourohému kastoru[5](./resources/undefined) na stole.
+Oliver vysekl poklonku, která platila dílem serbusovi na židli a dílem dvourohému kastoru[^5] na stole.
 
 „Půjdeš se mnou, Olivere?“ zeptal se pan Bumble majestátním hlasem.
 
@@ -170,10 +170,10 @@ Poněvadž zamýšlím v dalším ukázat, měl-li pán v bílé vestě pravdu
 
 * * *
 
-[3](./resources/undefined) Zkomoleně kolatura, kolaturní, to jest farnost, farnostní ve smyslu obec, obecní. (Ze staršího argotu.) _Pozn. překl._
+[^3]: Zkomoleně kolatura, kolaturní, to jest farnost, farnostní ve smyslu obec, obecní. (Ze staršího argotu.) _Pozn. překl._
 
-[4](./resources/undefined) Zkomolenina lat. [stante](https://la.wiktionary.org/wiki/stare) [pede](https://la.wiktionary.org/wiki/pes) čili „stojícíma nohama“, ve významu ihned. Pozn. red.
+[^4]: Zkomolenina lat. [stante](https://la.wiktionary.org/wiki/stare) [pede](https://la.wiktionary.org/wiki/pes) čili „stojícíma nohama“, ve významu ihned. Pozn. red.
 
-[5](./resources/undefined) Druh tvrdého klobouku. Pozn. red.
+[^5]: Druh tvrdého klobouku. Pozn. red.
 
 </section>

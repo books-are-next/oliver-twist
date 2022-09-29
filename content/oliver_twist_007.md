@@ -17,7 +17,7 @@ _Brittles_ – sluha v domácnosti paní Maylieové
 
 _Pan Brownlow_ – dobrodušný starý pán
 
-_Pan Bumble_ – obecní serbus[1](./resources/undefined)
+_Pan Bumble_ – obecní serbus[^1]
 
 _Tom Chitling_ – jeden z Faginových učedníků
 
@@ -89,6 +89,6 @@ _Paní Sowerberryová_ – zakyslá semetrika, choť pana Sowerberryho
 
 * * *
 
-[1](./resources/undefined) Sluha. _Pozn. red._
+[^1]: Sluha. _Pozn. red._
 
 </section>

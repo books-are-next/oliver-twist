@@ -34,7 +34,7 @@ Fagin přikývl na souhlas. Ukázal směrem k Saffron Hillu a zeptal se, je-li
 
 „To tam jako asi není Sikes, ja?“ ptal se žid se zklamaným výrazem v tváři.
 
-„Non istuentus[24](./resources/undefined), jak říkaj advokáti,“ odvětil mužíček, zavrtěl přitom hlavou a díval se úžasně poťouchle. „Máte dneska něco z mý branže?“
+„Non istuentus[^24], jak říkaj advokáti,“ odvětil mužíček, zavrtěl přitom hlavou a díval se úžasně poťouchle. „Máte dneska něco z mý branže?“
 
 „Dnes nic,“ řekl žid, otočil se a odcházel.
 
@@ -76,7 +76,7 @@ Fagin, netísněný žádnými závažnými vzruchy, hleděl dychtivě z jedné
 
 „Zatím ani slovo,“ odpověděl žid a již byl na cestě ze schodů.
 
-„Jářku,“ zavolal muž, nahnul se přes zábradlí a pokračoval chrap­lavým šeptem, „teď by byl vhodnej čas na handl, epes[25](./resources/undefined)! Mám tady Phila Barkera – tak zlitýho, že by na něj stačil kluk.“
+„Jářku,“ zavolal muž, nahnul se přes zábradlí a pokračoval chrap­lavým šeptem, „teď by byl vhodnej čas na handl, epes[^25]! Mám tady Phila Barkera – tak zlitýho, že by na něj stačil kluk.“
 
 „Ja, ja! Jenže Philův čas ještě nepřišel,“ namítl žid a zvedl oči k muži. „Phil ještě musí udělat něco víc, než si budem moct dovolit se s ním rozloučit – tak si teda zase jděte hezky zpátky ke společnosti, milánku, a řekněte jim, ať si jen užijou veselej život – _dokud jsou tady_. Ha, ha, ha!“
 
@@ -110,7 +110,7 @@ Dívka zahekala nějakou napůl nesrozumitelnou odpověď v tom smyslu, že to 
 
 „Ne!“ odsekl žid vztekle. „Rozhodně ne.“
 
-„Tak ji teda změňte!“ parírovala[26](./resources/undefined) dívka se smíchem.
+„Tak ji teda změňte!“ parírovala[^26] dívka se smíchem.
 
 „Změnit?“ rozkřikl se žid, nečekanou tvrdošíjností své společnice i mrzutostí večera nad všechnu mez rozlícený.
 
@@ -118,7 +118,7 @@ Dívka zahekala nějakou napůl nesrozumitelnou odpověď v tom smyslu, že to 
 
 „Co to má všecko znamenat?“ vyjekla dívka bezděčně.
 
-„Cože to má znamenat?“ vřeštěl dál Fagin, vzteky úplně šílený. „Když pro mě má ten kluk vert kolik stovek liber, mám já přijít vo takovej sichr kšeft, co mi náhoda přihrála do cesty, jen kvůli kapricům[27](./resources/undefined) nějaký prochlastaný bandy, kterou můžu poslat na šibenici, jen to hvízdne? A ke všemu mít na krku takovýho vtělenýho ďábla, co chce jen svou vůli a má taky moc mé, mě –“
+„Cože to má znamenat?“ vřeštěl dál Fagin, vzteky úplně šílený. „Když pro mě má ten kluk vert kolik stovek liber, mám já přijít vo takovej sichr kšeft, co mi náhoda přihrála do cesty, jen kvůli kapricům[^27] nějaký prochlastaný bandy, kterou můžu poslat na šibenici, jen to hvízdne? A ke všemu mít na krku takovýho vtělenýho ďábla, co chce jen svou vůli a má taky moc mé, mě –“
 
 Tu se udýchaný stařík, jak zalapal po dechu, při hledání dalšího slova zakoktal, a v tom okamžení zkrotil příval hněvu a úplně změnil chování. Ještě před vteřinkou chňapal zaťatýma rukama do vzduchu, oči měl vytřeštěné a tvář vzteky sinavou, kdežto teď se přikrčil na židli a celý schoulený se třásl strachem, že sám prozradil nějakou skrytou ničemnost. Po krátkém mlčení se odvážil ohlédnout na svou společnici. Zjevně ho trochu uklidnilo, když dívku spatřil v téže netečné pozici, z jaké ji vyburcoval prve.
 
@@ -224,12 +224,12 @@ Toto hromadění důkazu na důkaz pana Monkse vážně rozkolísávalo. Jak v 
 
 * * *
 
-[24](./resources/undefined) Správně „non est inventus (lat.), tj. nebyl nalezen. Klauzule připisovaná v Anglii šerifem na soudní obsílku nedoručitelnou proto, že obeslaný je v šerifově obvodě nezvěstný. _Pozn. překl._
+[^24]: Správně „non est inventus (lat.), tj. nebyl nalezen. Klauzule připisovaná v Anglii šerifem na soudní obsílku nedoručitelnou proto, že obeslaný je v šerifově obvodě nezvěstný. _Pozn. překl._
 
-[25](./resources/undefined) Prima. (Ze staršího argotu.) _Pozn. překl._
+[^25]: Prima. (Ze staršího argotu.) _Pozn. překl._
 
-[26](./resources/undefined) V tomto kontextu ve významu čelit, odpovídat. Pozn. red.
+[^26]: V tomto kontextu ve významu čelit, odpovídat. Pozn. red.
 
-[27](./resources/undefined) Vrtoch, rozmar. Pozn. red.
+[^27]: Vrtoch, rozmar. Pozn. red.
 
 </section>

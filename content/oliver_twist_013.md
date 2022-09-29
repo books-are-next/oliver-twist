@@ -58,7 +58,7 @@ Ještě před minutou vypadal hoch docela na tichého, krotkého, ušlápnutého
 
 Na Noemovo vřeštění se ozval hlasitý výkřik Karolíny a ještě hlasitější výkřik paní Sowerberryové; první jmenovaná se přiřítila do kuchyně postranními dveřmi, kdežto druhá zůstala stát na schodech a vyčkávala, dokud nenabude úplné jistoty, že sejít až dolů neznamená ohrožení lidského života.
 
-„Hó, ty kluku ničemná!“ ječela Karolína a popadla Olivera vší silou, která se přibližně rovnala síle prostředně silného muže ve zvlášť dobré kondici. „Hó, ty lumpe jeden o-hav-ná, ne-vděč-ná, mor-dýř-ská!“ A za každou slabikou dala Oliverovi ránu, div si ruku nevymkla, a pro gaudium[9](./resources/undefined) společnosti ji doprovodila vřísknutím.
+„Hó, ty kluku ničemná!“ ječela Karolína a popadla Olivera vší silou, která se přibližně rovnala síle prostředně silného muže ve zvlášť dobré kondici. „Hó, ty lumpe jeden o-hav-ná, ne-vděč-ná, mor-dýř-ská!“ A za každou slabikou dala Oliverovi ránu, div si ruku nevymkla, a pro gaudium[^9] společnosti ji doprovodila vřísknutím.
 
 Karolínina pěst rozhodně nebyla lehká; ale aby se snad nestalo, že by na zkrocení Oliverovy zuřivosti nestačila, vpadla nyní paní Sowerberryová do kuchyně a jednou rukou jí ho pomáhala držet a druhou mu drápala obličej. Za tohoto příznivého stavu okolností se Noe zvedl ze země a mlátil ho pěstmi zezadu.
 
@@ -86,6 +86,6 @@ Noe se nezdržoval, aby něco odpověděl, nýbrž ihned vyrazil plným tempem, 
 
 * * *
 
-[9](./resources/undefined) Veselí, veselá zábava. Pozn. red.
+[^9]: Veselí, veselá zábava. Pozn. red.
 
 </section>

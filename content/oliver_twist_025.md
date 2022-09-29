@@ -48,7 +48,7 @@ Lišák si znovu povzdechl a opět se chopil dýmky; Čódl Bates rovněž. Oba
 
 „To jsem,“ opakoval Lišák. „A Čódl taky. I Fagin. I Sikes. I Nancy. I Betsy. To jsme všichni – až po toho psa ušatýho. A ten má z celý bandy za ušima nejvíc!“
 
-„A hadování[20](./resources/undefined) na jazyku nejmíň,“ dodal Čódl Bates.
+„A hadování[^20] na jazyku nejmíň,“ dodal Čódl Bates.
 
 „Být ve svědecký lavici, tak ani neštěkne – ze strachu, aby se neuštěk. Kdepak, ani kdyby ho v ní uvázali a nechali ho tam štrnáct dní bez žrádla,“ řekl Lišák.
 
@@ -80,7 +80,7 @@ To bylo míněno prostě jako hold schopnostem onoho zvířete, ale byla to i t
 
 „Ale opustit přítele,“ řekl Oliver se slaboulinkým úsměvem, „a nechat ho potrestat za to, co jste udělal sám, to dokážete.“
 
-„To,“ opáčil Lišák a máchl dýmkou do vzduchu, „to bylo všechno jen z vohledu na Fagina, protože šnůrové vědí, že hakujem[21](./resources/undefined) spolu, a von by se byl moh zaplíst do maléru, kdybysme se nebyli šťastně zdejchli – to nás k tomu přimělo, viď, Čódl.“
+„To,“ opáčil Lišák a máchl dýmkou do vzduchu, „to bylo všechno jen z vohledu na Fagina, protože šnůrové vědí, že hakujem[^21] spolu, a von by se byl moh zaplíst do maléru, kdybysme se nebyli šťastně zdejchli – to nás k tomu přimělo, viď, Čódl.“
 
 Mladý pán Bates přikývl na souhlas a byl by i něco řekl, jenže vtom mu tak náhle vytanula vzpomínka na Oliverův úprk, že se mu kouř, který právě vdechoval, zamíchal do smíchu a rozlezl se mu nejen nahoru do hlavy, ale i dolů do krku, až se zakuckal a kašlal a dupal snad plných pět minut.
 
@@ -132,8 +132,8 @@ Zkrátka, lstivý starý žid měl hocha ve svých tenatech. Když nejdřív sam
 
 * * *
 
-[20](./resources/undefined) _Hadovat, dělat hada_ – udávat, udat, zradit policii, „prásknout“. (Ze staršího argotu.) _Pozn. překl._
+[^20]: _Hadovat, dělat hada_ – udávat, udat, zradit policii, „prásknout“. (Ze staršího argotu.) _Pozn. překl._
 
-[21](./resources/undefined) Pracovat (ve smyslu krást). (Ze staršího argotu.) _Pozn. překl._
+[^21]: Pracovat (ve smyslu krást). (Ze staršího argotu.) _Pozn. překl._
 
 </section>
