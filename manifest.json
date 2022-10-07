@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dickens-oliver-twist-21e2052",
-  "revision": "21e2052",
+  "identifier": "dickens-oliver-twist-2449e39",
+  "revision": "2449e39",
   "readingOrder": [
     "promo.html",
     "oliver_twist_005.html",
@@ -71,8 +71,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:00:16 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924416514
+    "date": "Fri Oct 07 2022 14:05:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151518541
   },
   "documents": [
     {
