@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dickens-oliver-twist-2449e39",
-  "revision": "2449e39",
+  "identifier": "dickens-oliver-twist-1811fcb",
+  "revision": "1811fcb",
   "readingOrder": [
     "promo.html",
     "oliver_twist_005.html",
@@ -71,8 +71,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:05:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151518541
+    "date": "Mon Oct 10 2022 15:57:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417471926
   },
   "documents": [
     {
@@ -1211,7 +1211,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 133,
-      "chars": 884,
+      "chars": 885,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -1231,7 +1231,7 @@
   "totals": {
     "all": {
       "words": 147495,
-      "chars": 879022,
+      "chars": 879023,
       "ideas": 4056
     },
     "chapters": {
